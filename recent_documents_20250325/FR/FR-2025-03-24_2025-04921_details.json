@@ -1,0 +1,31 @@
+{
+  "summary": "The U.S. Nuclear Regulatory Commission (NRC) issued an exemption to Constellation Energy Generation, LLC, permitting Peach Bottom Atomic Power Station (PB) Units 2 and 3 to use the Holtec HI- STORM Flood/Wind (FW) Multi-Purpose Canister (MPC) Storage System, including the use of the HI-TRAC VW transfer cask during loading and transport operations, at the PB independent spent fuel storage installation, for seven 89 multi-purpose canisters, in a near-term loading campaign beginning in June 2025, where the terms, conditions, and specifications in Certificate of Compliance No. 1032, Amendment No. 1, Revision No. 1, are not met.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04921",
+  "agencies": [
+    {
+      "name": "NUCLEAR REGULATORY COMMISSION",
+      "order": "1"
+    }
+  ],
+  "title": "Constellation Energy Generation, LLC; Peach Bottom Atomic Power Station Units 2 and 3; Independent Spent Fuel Storage Installation; Exemption",
+  "collectionName": "Federal Register",
+  "billingCode": "7590-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04921",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04921/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04921/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04921/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04921",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

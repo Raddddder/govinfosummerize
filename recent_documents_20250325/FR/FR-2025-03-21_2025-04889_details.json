@@ -1,0 +1,35 @@
+{
+  "summary": "Flood hazard determinations, which may include additions or modifications of Base Flood Elevations (BFEs), base flood depths, Special Flood Hazard Area (SFHA) boundaries or zone designations, or regulatory floodways on the Flood Insurance Rate Maps (FIRMs) and where applicable, in the supporting Flood Insurance Study (FIS) reports have been made final for the communities listed in the table below. The FIRM and FIS report are the basis of the floodplain management measures that a community is required either to adopt or to show evidence of having an effect in order to qualify or remain qualified for participation in the Federal Emergency Management Agency's (FEMA's) National Flood Insurance Program (NFIP).",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04889",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HOMELAND SECURITY",
+      "order": "1"
+    },
+    {
+      "name": "Federal Emergency Management Agency",
+      "order": "2"
+    }
+  ],
+  "title": "Final Flood Hazard Determinations",
+  "collectionName": "Federal Register",
+  "billingCode": "9110-12-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04889",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04889/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04889/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04889/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04889",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

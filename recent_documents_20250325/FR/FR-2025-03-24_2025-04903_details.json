@@ -1,0 +1,35 @@
+{
+  "summary": "NMFS implements an accountability measure (AM) for the recreational harvest of gag in South Atlantic Federal waters. NMFS reduces the length of the 2025 recreational fishing season for gag to prevent landings from exceeding the recreational annual catch limit (ACL) as occurred in 2024. Accordingly, NMFS announces the adjusted closure date for the recreational harvest of gag in South Atlantic Federal waters to protect the gag resource.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04903",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 2025 Recreational Accountability Measure and Closure for Gag in the South Atlantic",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-22-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04903",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04903/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04903/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04903/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04903",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

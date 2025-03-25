@@ -1,0 +1,35 @@
+{
+  "summary": "The Employment and Training Administration (ETA) of the Department of Labor (DOL) is issuing this notice to announce the annual updates to allowable monetary charges employers of H-2A workers, in occupations other than herding or production of livestock on the range, may charge workers when the employer provides three meals per day. This notice also announces the minimum and maximum amount of travel-related subsistence reimbursements required under the H-2A and H-2B programs. Finally, this notice includes a reminder regarding employers' obligations with respect to overnight lodging costs as part of required subsistence and reasonable travel costs to and from the worksite.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04904",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF LABOR",
+      "order": "1"
+    },
+    {
+      "name": "Employment and Training Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Labor Certification Process for the Temporary Employment of H-2A and H-2B Foreign Workers in the United States: Annual Update To Allowable Monetary Charges for Agricultural Workers' Meals and for Travel Subsistence Reimbursement, Including Lodging",
+  "collectionName": "Federal Register",
+  "billingCode": "4510-FP-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04904",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04904/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04904/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04904/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04904",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

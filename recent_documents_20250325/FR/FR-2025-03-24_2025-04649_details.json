@@ -1,0 +1,39 @@
+{
+  "summary": "The U.S. Environmental Protection Agency (EPA) and the Department of the Army intend to engage with State and Tribal co- regulators; industry and agricultural stakeholders; environmental and conservation stakeholders; and the public on certain key topics related to the implementation of the definition of \"waters of the United States\" in light of the Supreme Court's 2023 decision in Sackett v. Environmental Protection Agency. The agencies are committed to learning from the past regulatory approaches--the pre-2015 regulations and guidance, the 2015 Clean Water Rule, the 2020 Navigable Waters Protection Rule, the 2023 Rule, and the Amended 2023 Rule--while engaging with stakeholders before taking further administrative action to provide any additional clarification to agency staff, co-regulators, and the public on specific aspects of the definition of \"waters of the United States.\" This notice includes an announcement of forthcoming listening sessions on specific key topic areas to hear interested stakeholders' perspectives on defining \"waters of the United States\" consistent with the Supreme Court's interpretation of the scope of Clean Water Act jurisdiction and how to implement that interpretation as the agencies consider next steps. The agencies are also accepting written recommendations from members of the public via a recommendations docket. These opportunities are intended to provide for broad, transparent engagement with a full spectrum of stakeholders.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04649",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF DEFENSE",
+      "order": "1"
+    },
+    {
+      "name": "Department of the Army, Corps of Engineers",
+      "order": "2"
+    },
+    {
+      "name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "order": "3"
+    }
+  ],
+  "title": "WOTUS Notice: The Final Response to SCOTUS; Establishment of a Public Docket; Request for Recommendations",
+  "collectionName": "Federal Register",
+  "billingCode": "6560-50-P",
+  "granuleClass": "PRORULE",
+  "granuleId": "2025-04649",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04649/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04649/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04649/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04649",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

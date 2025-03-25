@@ -1,0 +1,35 @@
+{
+  "summary": "In accordance with the Marine Mammal Protection Act (MMPA), as amended, its implementing regulations, and NMFS' MMPA regulations for taking marine mammals incidental to geophysical surveys related to oil and gas activities in the Gulf of America, originally published as \"Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of Mexico,\" notification is hereby given that a Letter of Authorization (LOA) has been issued to TGS for the take of marine mammals incidental to geophysical survey activity in the Gulf of America (GOA).",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04850",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of America (Formerly Gulf of Mexico)",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-22-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04850",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04850/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04850/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04850/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04850",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

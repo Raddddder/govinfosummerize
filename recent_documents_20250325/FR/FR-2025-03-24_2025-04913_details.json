@@ -1,0 +1,31 @@
+{
+  "summary": "The Federal Retirement Thrift Investment Board (FRTIB) adopts as final, without changes, a proposed rule concerning the methodology used to calculate earnings and losses in connection with court-ordered payments to spouses, former spouses, children, or dependents (i.e., payees) of Thrift Savings Plan (TSP) participants.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04913",
+  "agencies": [
+    {
+      "name": "FEDERAL RETIREMENT THRIFT INVESTMENT BOARD",
+      "order": "1"
+    }
+  ],
+  "title": "Methodology for Calculating Earnings on Court-Ordered Payments",
+  "collectionName": "Federal Register",
+  "billingCode": "6760-01-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04913",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04913/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04913/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04913/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04913",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

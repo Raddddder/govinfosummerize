@@ -1,0 +1,35 @@
+{
+  "summary": "The FAA is considering a proposal to change approximately 62.365 acres of airport land from aeronautical use to non-aeronautical use and to authorize the sale of airport property located at Bolton Field Airport, Columbus, Ohio. The aforementioned land is not needed for aeronautical use. The property is located north of the airfield and currently consists of vacant land. The land is located along the north side of Alkire Road, east of Lone Eagle Street and west of the Runway Protection Zone for Runway 22. The anticipated future industrial development.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04919",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Notice of Intent of Waiver With Respect to Land; Bolton Field Airport, Columbus, Ohio",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-XX-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04919",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04919/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04919/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04919/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04919",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

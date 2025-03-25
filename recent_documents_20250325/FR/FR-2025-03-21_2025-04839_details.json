@@ -1,0 +1,35 @@
+{
+  "summary": "In accordance with ORR regulations, the Director of ORR is announcing the shortening of the Refugee Cash Assistance (RCA) and Refugee Medical Assistance (RMA) eligibility period from 12 months to four months of assistance for participants who become eligible for ORR benefits 45 days after publication of this notice. For 30 years, ORR had not increased the RCA and RMA eligibility period. In 2022, during a surge in refugee admissions, ORR increased the eligibility period from eight months to 12 months. ORR has determined that it must shorten the RCA and RMA eligibility period to four months to avoid a significant budget shortfall.",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04839",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    },
+    {
+      "name": "Administration for Children and Families",
+      "order": "2"
+    }
+  ],
+  "title": "Office of Refugee Resettlement; Notice of Change of Eligibility",
+  "collectionName": "Federal Register",
+  "billingCode": "4184-45-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04839",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04839/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04839/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04839/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04839",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

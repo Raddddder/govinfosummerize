@@ -1,0 +1,35 @@
+{
+  "summary": "The Colville Resource Advisory Committee (RAC) will hold a public meeting according to the details shown below. The committee is authorized under the Secure Rural Schools and Community Self- Determination Act (the Act) and operates in compliance with the Federal Advisory Committee Act (FACA). The purpose of the committee is to improve collaborative relationships and to provide advice and recommendations to the Forest Service concerning projects and funding consistent with Title II of the Act, as well as make recommendations on recreation fee proposals for sites on the Colville National Forest within Ferry, Pend Oreille, and Stevens Counties, consistent with the Federal Lands Recreation Enhancement Act.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04927",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF AGRICULTURE",
+      "order": "1"
+    },
+    {
+      "name": "Forest Service",
+      "order": "2"
+    }
+  ],
+  "title": "Colville Resource Advisory Committee",
+  "collectionName": "Federal Register",
+  "billingCode": "3411-15-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04927",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04927/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04927/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04927/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04927",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

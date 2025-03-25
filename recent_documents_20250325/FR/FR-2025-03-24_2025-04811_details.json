@@ -1,0 +1,31 @@
+{
+  "summary": "In this document, the Federal Communications Commission (Commission) modifies its existing call blocking rules. Specifically, the Commission requires all domestic voice service providers to block based on a reasonable do-not-originate (DNO) list. Second, it requires voice service providers to return Session Initiation Protocol (SIP) code 603+ when calls are blocked based on reasonable analytics.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04811",
+  "agencies": [
+    {
+      "name": "FEDERAL COMMUNICATIONS COMMISSION",
+      "order": "1"
+    }
+  ],
+  "title": "Advanced Methods To Target and Eliminate Unlawful Robocalls",
+  "collectionName": "Federal Register",
+  "billingCode": "6712-01-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04811",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04811/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04811/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04811/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04811",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "The Environmental Protection Agency (EPA) is approving a revision to the State of New York's State Implementation Plan (SIP) for the ozone National Ambient Air Quality Standard (NAAQS) related to a Source-specific SIP (SSSIP) revision for Knowlton Technologies LLC, located at 213 Factory Street, Watertown, New York (the Facility). The control options in this SSSIP revision address volatile organic compound (VOC) Reasonably Available Control Technology (RACT) for the Facility source identified as two 10,000-gallon underground storage tanks holding virgin methanol. This action is being taken in accordance with the requirements of the Clean Air Act (CAA) for implementation of the 2008 and 2015 ozone NAAQS. The EPA proposed to approve this rule on November 26, 2024, and received no comments. This final action will not interfere with ozone NAAQS requirements and meets all applicable requirements of the CAA.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04910",
+  "agencies": [
+    {
+      "name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "order": "1"
+    }
+  ],
+  "title": "Air Plan Approval; New York; Knowlton Technologies LLC",
+  "collectionName": "Federal Register",
+  "billingCode": "6560-50-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04910",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04910/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04910/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04910/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04910",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

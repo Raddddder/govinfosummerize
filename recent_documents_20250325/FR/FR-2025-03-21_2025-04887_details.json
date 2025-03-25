@@ -1,0 +1,35 @@
+{
+  "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of information, and to allow a second opportunity for public comment on the notice. Interested persons are invited to send comments regarding the burden estimate or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04887",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    },
+    {
+      "name": "Centers for Medicare & Medicaid Services",
+      "order": "2"
+    }
+  ],
+  "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+  "collectionName": "Federal Register",
+  "billingCode": "4120-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04887",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04887/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04887/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04887/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04887",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "On May 7, 2024, the Animal and Plant Health Inspection Service published in the Federal Register a final rule amending the user fee regulations associated with the agricultural quarantine and inspection program. The final rule went into effect on October 1, 2024, with the exception of the removal of an exemption to the commercial aircraft user fee for small commercial passenger aircraft, which was scheduled to go into effect on April 1, 2025. In this document, we are issuing a postponement of the effective date of the removal of the exemption to the commercial aircraft user fee for small commercial passenger aircraft for 60 days, from April 1, 2025, to June 2, 2025.",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04821",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF AGRICULTURE",
+      "order": "1"
+    },
+    {
+      "name": "Animal and Plant Health Inspection Service",
+      "order": "2"
+    }
+  ],
+  "title": "User Fees: Agricultural Quarantine and Inspection Services; Delay of Effective Date and Request for Information",
+  "collectionName": "Federal Register",
+  "billingCode": "3410-34-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04821",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04821/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04821/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04821/pdf"
+  },
+  "rin": "0579-AE71",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04821",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

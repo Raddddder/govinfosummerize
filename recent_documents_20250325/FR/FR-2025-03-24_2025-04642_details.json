@@ -1,0 +1,36 @@
+{
+  "summary": "This action establishes Class E airspace extending upward from 700 feet above the surface for Memorial Hospital Heliport, North Conway, NH, by adding airspace for the heliport, which accommodates new area navigation (RNAV) global positioning system (GPS) standard instrument approach procedures serving the heliport. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations at this heliport.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04642",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Establishment of Class E Airspace; North Conway, NH",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-13-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04642",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04642/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04642/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04642/pdf"
+  },
+  "rin": "2120-AA66",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04642",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "DoD is publishing the updated annual list of product categories for which the Federal Prison Industries' share of the DoD market is greater than five percent.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04926",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF DEFENSE",
+      "order": "1"
+    },
+    {
+      "name": "Defense Acquisition Regulations System",
+      "order": "2"
+    }
+  ],
+  "title": "Acquisition of Items for Which Federal Prison Industries Has a Significant Market Share",
+  "collectionName": "Federal Register",
+  "billingCode": "6001-FR-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04926",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04926/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04926/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04926/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04926",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "NMFS announces that the State of North Carolina is transferring a portion of its 2025 commercial summer flounder quota to the Commonwealth of Virginia. This adjustment to the 2025 fishing year quota is necessary to comply with the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2025 commercial quotas for North Carolina and Virginia.",
+  "dateIssued": "2025-03-21",
+  "packageId": "FR-2025-03-21",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-21/2025-04880",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Virginia",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-22-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04880",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-21/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04880/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-21/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04880/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules/2025-04880/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04880",
+  "docClass": "FR",
+  "lastModified": "2025-03-23T16:15:56Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-21/granules?offsetMark=*&pageSize=100"
+}

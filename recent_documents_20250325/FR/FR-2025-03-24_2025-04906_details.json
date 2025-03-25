@@ -1,0 +1,32 @@
+{
+  "summary": "The Environmental Protection Agency (EPA) is proposing to approve the Idaho regional haze State Implementation Plan (SIP) revision submitted on August 5, 2022, and supplemented on May 8, 2024. Idaho submitted the SIP revision to address the requirement to make reasonable progress toward the national goal of preventing any future, and remedying any existing, anthropogenic impairment of visibility in certain national parks and wilderness areas.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04906",
+  "agencies": [
+    {
+      "name": "ENVIRONMENTAL PROTECTION AGENCY",
+      "order": "1"
+    }
+  ],
+  "title": "Air Plan Approval; ID; Regional Haze Plan for the Second Implementation Period",
+  "collectionName": "Federal Register",
+  "billingCode": "6560-50-P",
+  "granuleClass": "PRORULE",
+  "granuleId": "2025-04906",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04906/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04906/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04906/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04906",
+  "partNumber": "II",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

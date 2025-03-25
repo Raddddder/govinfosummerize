@@ -8,10 +8,10 @@ import requests
 import datetime
 import sys
 
-def get_one_week_ago():
-    """返回一周前的日期，ISO 8601格式"""
-    one_week_ago = datetime.datetime.now() - datetime.timedelta(days=7)
-    return one_week_ago.strftime('%Y-%m-%dT00:00:00Z')
+def get_two_days_ago():
+    """返回2天前的日期，ISO 8601格式"""
+    two_days_ago = datetime.datetime.now() - datetime.timedelta(days=2)
+    return two_days_ago.strftime('%Y-%m-%dT00:00:00Z')
 
 def get_collections(api_key):
     """获取所有可用的集合信息"""
@@ -64,7 +64,7 @@ def get_granule_details(package_id, granule_id, api_key):
         return None
 
 def main():
-    parser = argparse.ArgumentParser(description='获取GovInfo API中最近一周的文档信息')
+    parser = argparse.ArgumentParser(description='获取GovInfo API中最近2天的文档信息')
     parser.add_argument('--api_key', required=True, help='GovInfo API密钥')
     parser.add_argument('--collections', nargs='+', default=['FR', 'BILLS', 'CREC'], 
                         help='要查询的集合代码，默认为FR, BILLS, CREC')
@@ -77,8 +77,8 @@ def main():
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
     
-    # 获取一周前的日期
-    start_date = get_one_week_ago()
+    # 获取2天前的日期
+    start_date = get_two_days_ago()
     print(f"正在获取从 {start_date} 至今的文档信息...")
     
     # 获取所有集合信息（可选）
@@ -129,7 +129,7 @@ def main():
                                         with open(os.path.join(documents_dir, f'{package_id}_{granule_id}_details.json'), 'w', encoding='utf-8') as f:
                                             json.dump(granule_details, f, ensure_ascii=False, indent=2)
         else:
-            print(f"{collection} 集合中没有找到最近一周的文档")
+            print(f"{collection} 集合中没有找到最近2天的文档")
     
     print("所有请求已完成。文档信息已保存到", args.output_dir)
 

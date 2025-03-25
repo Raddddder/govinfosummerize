@@ -1,0 +1,36 @@
+{
+  "summary": "This document contains technical corrections to a notice of proposed rulemaking (REG-112261-24) that was published in the Federal Register on Thursday, January 16, 2025. REG-112261-24 contains proposed regulations regarding certain matters relating to corporate separations, incorporations, and reorganizations qualifying, in whole or in part, for nonrecognition of gain or loss.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04757",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF THE TREASURY",
+      "order": "1"
+    },
+    {
+      "name": "Internal Revenue Service",
+      "order": "2"
+    }
+  ],
+  "title": "Guidance Regarding Certain Matters Relating to Nonrecognition of Gain or Loss in Corporate Separations, Incorporations, and Reorganizations; Technical Correction",
+  "collectionName": "Federal Register",
+  "billingCode": "4830-01-P",
+  "granuleClass": "PRORULE",
+  "granuleId": "2025-04757",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04757/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04757/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04757/pdf"
+  },
+  "rin": "1545-BR32",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04757",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "NMFS has received a request from the Alaska Department of Transportation and Public Facilities (ADOT&PF) for authorization to take marine mammals incidental to Angoon Ferry Terminal Modification Project in Angoon, Alaska. Pursuant to the Marine Mammal Protection Act (MMPA), NMFS is requesting comments on its proposal to issue an incidental harassment authorization (IHA) to incidentally take marine mammals during the specified activities. NMFS is also requesting comments on a possible one-time, 1-year renewal that could be issued under certain circumstances and if all requirements are met, as described in Request for Public Comments at the end of this notice. NMFS will consider public comments prior to making any final decision on the issuance of the requested MMPA authorization and agency responses will be summarized in the final notice of our decision.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04902",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Alaska Department of Transportation and Public Facilities Angoon Ferry Terminal Modification Project in Angoon, Alaska",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-22-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04902",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04902/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04902/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04902/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04902",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}
