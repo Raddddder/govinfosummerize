@@ -1,0 +1,35 @@
+{
+  "summary": "The National Oceanic and Atmospheric Administration (NOAA) is reviewing, for consistency with the Administration's policies and Executive Orders, the final rule that published on January 16, 2025 to designate Papah[amacr]naumoku[amacr]kea National Marine Sanctuary (PNMS). The designation and regulations for PNMS became effective on March 3, 2025.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04949",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Designation of Papahānaumokuākea National Marine Sanctuary",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-NK-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04949",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04949/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04949/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04949/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04949",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

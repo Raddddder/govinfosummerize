@@ -1,0 +1,43 @@
+{
+  "summary": "The United States Department of Agriculture, Rural Development (RD), which is comprised of the Rural Business-Cooperative Service (RBCS), Rural Utilities Service (RUS), and Rural Housing Service (RHS), announces that it is amending 14 program funding opportunities to remove references to the prior Administration's key priorities and DEI (diversity, equity, and inclusion)-related scoring criteria to bring them into compliance with the Executive Order, \"Ending Radical And Wasteful Government DEI Programs And Preferencing\", issued on January 20, 2025. This notice also confirms that previous Administration key priorities and discretionary points will not be considered during application scoring and makes clear that applicants who already have applied need not reapply. This notice also corrects the Rural Energy for America funding notice to include an omitted funding source.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04988",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF AGRICULTURE",
+      "order": "1"
+    },
+    {
+      "name": "Rural Business-Cooperative Service",
+      "order": "2"
+    },
+    {
+      "name": "Rural Housing Service",
+      "order": "3"
+    },
+    {
+      "name": "Rural Utilities Service",
+      "order": "4"
+    }
+  ],
+  "title": "Amendment of Rural Development Funding Opportunities Pursuant to the Executive Order “Ending Radical and Wasteful Government DEI Programs and Preferencing”; Correction of Rural Energy for America Funding Notice",
+  "collectionName": "Federal Register",
+  "billingCode": "3410-XY-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04988",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04988/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04988/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04988/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04988",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

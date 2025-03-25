@@ -1,0 +1,31 @@
+{
+  "summary": "This is a Notice of the Presidential declaration of a major disaster for Public Assistance Only for the State of North Dakota (FEMA-4852-DR), dated December 24, 2024. Incident: Wildfires and Straight-Line Winds.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04931",
+  "agencies": [
+    {
+      "name": "SMALL BUSINESS ADMINISTRATION",
+      "order": "1"
+    }
+  ],
+  "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the State of North Dakota",
+  "collectionName": "Federal Register",
+  "billingCode": "8026-09-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04931",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04931/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04931/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04931/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04931",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

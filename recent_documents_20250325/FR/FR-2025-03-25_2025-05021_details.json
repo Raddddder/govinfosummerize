@@ -1,0 +1,35 @@
+{
+  "summary": "FMCSA announces that it has received an application from DISA Entertainment Compliance Solutions (DECS), formerly known as Motion Picture Compliance Solutions, to renew its exemption from the requirement that an employer must not employ a driver who is subject to drug and alcohol testing to perform safety-sensitive functions prior to conducting a full query of the Drug and Alcohol Clearinghouse (Clearinghouse) on behalf of its members that employ commercial driver's license (CDL) holders. Under the requested exemption, DECS would conduct a limited query of the Clearinghouse before one of its member employers hires a driver for a project. If the limited query indicates that information about the driver exist in the Clearinghouse, the driver would not be permitted to perform safety-sensitive functions unless and until a full query subsequently shows that the driver is not prohibited from operating a commercial motor vehicle (CMV). FMCSA requests public comment on DECS' application for an exemption.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-05021",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Federal Motor Carrier Safety Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Controlled Substances and Alcohol Use and Testing: DISA Entertainment Compliance Solutions Application for Exemption From the Drug and Alcohol Clearinghouse Pre-Employment Full-Query",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-EX-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-05021",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05021/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05021/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05021/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-05021",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

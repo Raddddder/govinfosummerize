@@ -1,0 +1,38 @@
+{
+  "dateIssued": "2025-03-24",
+  "issue": "55",
+  "documentType": "FR",
+  "packageId": "FR-2025-03-24",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24",
+  "title": "Federal Register Volume 90 Issue 55 (March 24, 2025)",
+  "branch": "executive",
+  "collectionName": "Federal Register",
+  "volume": "90",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/FR-2025-03-24/xml",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/pdf"
+  },
+  "pages": "151",
+  "governmentAuthor2": "Office of the Federal Register",
+  "governmentAuthor1": "National Archives and Records Administration",
+  "publisher": "Office of the Federal Register, National Archives and Records Administration",
+  "suDocClassNumber": "AE 2.7:, GS 4.107:, AE 2.106:",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "otherIdentifier": {
+    "issn": [
+      "0097-6326",
+      "0042-1219",
+      "0364-1406"
+    ],
+    "migrated-doc-id": "f:FR24MR25",
+    "ils-system-id": "000582072",
+    "stock-number": "769-004-00000-9"
+  },
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0072; -0093; -0111; -0136; and -0171). The notices of proposed renewal for these information collections were previously published in the Federal Register on January 23, 2025, allowing for a 60-day comment period.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04975",
+  "agencies": [
+    {
+      "name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+      "order": "1"
+    }
+  ],
+  "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+  "collectionName": "Federal Register",
+  "billingCode": "6714-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04975",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04975/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04975/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04975/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04975",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

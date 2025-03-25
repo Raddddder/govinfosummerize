@@ -1,0 +1,31 @@
+{
+  "summary": "The Federal Maritime Commission (Commission) is giving public notice that the agency has submitted the continuing information collection listed below in this notice to the Office of Management and Budget (OMB) for approval. The public is invited to comment on the proposed information collection pursuant to the Paperwork Reduction Act of 1995.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04937",
+  "agencies": [
+    {
+      "name": "FEDERAL MARITIME COMMISSION",
+      "order": "1"
+    }
+  ],
+  "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Requested; Controlled Carriers",
+  "collectionName": "Federal Register",
+  "billingCode": "6730-02-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04937",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04937/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04937/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04937/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04937",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

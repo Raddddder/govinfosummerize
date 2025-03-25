@@ -1,0 +1,35 @@
+{
+  "summary": "The previous Department of the Air Force Scientific Advisory Board Federal Register Notice, Vol. 90, No. 12154, published on Friday March 14, 2025, is hereby withdrawn. The Department of the Air Force Scientific Advisory Board Meeting to be held on March 27-28, 2025 is cancelled. The Department of the Air Force Scientific Advisory Board has been directed to pause all operations for 45 days effective Friday, March 7, 2025, Office of the Secretary of Defense memorandum, \"Review of Department of Defense Advisory Committees\".",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04999",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF DEFENSE",
+      "order": "1"
+    },
+    {
+      "name": "Department of the Air Force",
+      "order": "2"
+    }
+  ],
+  "title": "Department of the Air Force Scientific Advisory Board; Notice of Federal Advisory Committee Meeting",
+  "collectionName": "Federal Register",
+  "billingCode": "3911-44-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04999",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04999/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04999/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04999/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04999",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

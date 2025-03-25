@@ -1,0 +1,35 @@
+{
+  "summary": "PHMSA is issuing this advisory bulletin to promote the implementation of a pipeline safety management system (PSMS) by regulated pipeline owners and operators.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04960",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Pipeline and Hazardous Materials Safety Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Pipeline Safety: Pipeline Safety Management System",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-60-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04960",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04960/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04960/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04960/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04960",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

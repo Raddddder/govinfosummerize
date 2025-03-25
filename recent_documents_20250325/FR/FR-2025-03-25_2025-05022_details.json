@@ -1,0 +1,35 @@
+{
+  "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The information to be collected will be used to determine if licensees have complied with financial responsibility requirements for maximum probable loss determination (MPL) analysis as set forth in FAA regulations. The FAA is responsible for determining MPL required to cover claims by a third party for bodily injury or property damage, and the United States, its agencies, and its contractors and subcontractors for covered property damage or loss, resulting from a Commercial space transportation permitted or licensed activity. The MPL determination forms the basis for financial responsibility requirements issued in a license or permit order.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-05022",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Financial Responsibility for Licensed Launch Activities",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-13-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-05022",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05022/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05022/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05022/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-05022",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

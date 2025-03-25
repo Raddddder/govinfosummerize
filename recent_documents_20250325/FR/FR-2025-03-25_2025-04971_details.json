@@ -1,0 +1,36 @@
+{
+  "summary": "ORR is amending a regulation so that it comports with the express language of the governing legislation. That regulation relates to key aspects of the placement, care, and services provided to unaccompanied alien children (UACs) referred to ORR, pursuant to ORR's responsibilities for coordinating and implementing the care and placement of UACs who are in Federal custody by reason of their immigration status under the Homeland Security Act of 2002 (HSA) and the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (TVPRA).",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04971",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    },
+    {
+      "name": "Administration for Children and Families",
+      "order": "2"
+    }
+  ],
+  "title": "Unaccompanied Children Program Foundational Rule; Update To Accord With Statutory Requirements",
+  "collectionName": "Federal Register",
+  "billingCode": "4184-45-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04971",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04971/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04971/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04971/pdf"
+  },
+  "rin": "0970-AD16",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04971",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

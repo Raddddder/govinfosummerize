@@ -1,0 +1,31 @@
+{
+  "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Utah Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public meeting. The purpose of the meeting is to discuss the Committee's project, The Civil Rights Implications of Disparate Outcomes in Utah's K-12 Education System.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04932",
+  "agencies": [
+    {
+      "name": "COMMISSION ON CIVIL RIGHTS",
+      "order": "1"
+    }
+  ],
+  "title": "Notice of Public Meeting of the Utah Advisory Committee to the U.S. Commission on Civil Rights",
+  "collectionName": "Federal Register",
+  "billingCode": "6335-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04932",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04932/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04932/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04932/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04932",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "The U.S. Nuclear Regulatory Commission (NRC) staff accepted and docketed an application for the amendment of Special Nuclear Materials (SNM) License No. SNM-2011, submitted by American Centrifuge Operating, LLC, dba ACO dated December 19, 2024. The license amendement request (LAR) would authorize the applicant to modify its NRC license SNM-2011 for the American Centrifuge Plant, located in Piketon, Ohio to account for continued operations (Phase III) for a period of up to 9 years beyond its current authorization expiration date of June 30, 2025. Because the amendment request contains sensitive unclassified non-safeguards information (SUNSI), an order imposes procedures to obtain access to SUNSI for contention preparation by persons who file a hearing request or petition for leave to intervene.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04984",
+  "agencies": [
+    {
+      "name": "NUCLEAR REGULATORY COMMISSION",
+      "order": "1"
+    }
+  ],
+  "title": "American Centrifuge Operating, LLC, dba ACO; American Centrifuge Plant; License Amendment Application",
+  "collectionName": "Federal Register",
+  "billingCode": "7590-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04984",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04984/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04984/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04984/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04984",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "NMFS announces that the recreational fishing season for black sea bass in South Atlantic Federal waters will extend throughout the 2025-2026 recreational fishing year. Announcing the length of the recreational fishing season for black sea bass is one of the accountability measures (AMs) for the recreational sector. This announcement allows recreational fishers to maximize their opportunity to harvest the recreational annual catch limit (ACL) for black sea bass while NMFS manages harvest to protect the black sea bass resource.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04930",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF COMMERCE",
+      "order": "1"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; 2025-2026 Recreational Fishing Season for Black Sea Bass",
+  "collectionName": "Federal Register",
+  "billingCode": "3510-22-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04930",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04930/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04930/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04930/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04930",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

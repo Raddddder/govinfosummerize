@@ -1,0 +1,35 @@
+{
+  "count": 7,
+  "message": null,
+  "nextPage": "https://api.govinfo.gov/collections/FR/2025-03-18T00:00:00Z?offsetMark=AoJw5sLy4ZUDLUZSLTIwMjUtMDMtMjE%3D&pageSize=3",
+  "previousPage": null,
+  "packages": [
+    {
+      "packageId": "FR-2025-03-25",
+      "lastModified": "2025-03-25T05:24:01Z",
+      "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+      "docClass": "FR",
+      "title": "Federal Register Volume 90 Issue 56 (March 25, 2025)",
+      "congress": null,
+      "dateIssued": "2025-03-25"
+    },
+    {
+      "packageId": "FR-2025-03-24",
+      "lastModified": "2025-03-24T17:26:14Z",
+      "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+      "docClass": "FR",
+      "title": "Federal Register Volume 90 Issue 55 (March 24, 2025)",
+      "congress": null,
+      "dateIssued": "2025-03-24"
+    },
+    {
+      "packageId": "FR-2025-03-21",
+      "lastModified": "2025-03-23T16:15:56Z",
+      "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-21/summary",
+      "docClass": "FR",
+      "title": "Federal Register Volume 90 Issue 54 (March 21, 2025)",
+      "congress": null,
+      "dateIssued": "2025-03-21"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "This action proposes to amend Class D airspace extending upward from the surface to and including 2,500 feet MSL within a 4.5- mile radius of William P. Gwinn Airport, beginning at the 205[deg] bearing from the airport clockwise to the 145[deg] bearing, thence to the beginning point. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations in the area.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04986",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Amendment of Class D Airspace; Jupiter, FL",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-13-P",
+  "granuleClass": "PRORULE",
+  "granuleId": "2025-04986",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04986/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04986/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04986/pdf"
+  },
+  "rin": "2120-AA66",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04986",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act that the Colorado Advisory Committee (Committee) to the U.S. Commission on Civil Rights will convene the following two business meetings: Wednesday, April 2, 2025, at 3 p.m. Mountain Time and Wednesday, April 16, 2025, at 3 p.m. Mountain Time. The purpose of the meeting on April 2nd is to narrow down and vote on a study topic. The purpose of the meeting on April 16th is to vote on a project proposal and begin planning hearings related to the study of the selected topic.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-05029",
+  "agencies": [
+    {
+      "name": "COMMISSION ON CIVIL RIGHTS",
+      "order": "1"
+    }
+  ],
+  "title": "Notice of Public Meetings of the Colorado Advisory Committee to the U.S. Commission on Civil Rights",
+  "collectionName": "Federal Register",
+  "billingCode": "P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-05029",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05029/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05029/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05029/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-05029",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": "Mack Trucks, Inc., (Mack) has determined that certain model year (MY) 2017-2026 Mack Pinnacle (PI/PN) and MY 2017-2019 Mack CHU trucks do not fully comply with Federal Motor Vehicle Safety Standard (FMVSS) No. 121, Air Brake Systems. Mack filed a noncompliance report dated December 20, 2024, and amended it on January 15, 2025. Mack petitioned NHTSA (the \"Agency\") on January 15, 2025, for a decision that the subject noncompliance is inconsequential as it relates to motor vehicle safety. This document announces receipt of Mack's petition.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04950",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF TRANSPORTATION",
+      "order": "1"
+    },
+    {
+      "name": "National Highway Traffic Safety Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Mack Trucks LLC, Receipt of Petition for Decision of Inconsequential Noncompliance",
+  "collectionName": "Federal Register",
+  "billingCode": "4910-59-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04950",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04950/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04950/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04950/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04950",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

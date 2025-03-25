@@ -1,0 +1,31 @@
+{
+  "summary": "This is a notice of an Administrative declaration of a disaster for the State of Texas dated March 19, 2025. Incident: Thunderstorms, Straight-line Winds and Tornadoes.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04989",
+  "agencies": [
+    {
+      "name": "SMALL BUSINESS ADMINISTRATION",
+      "order": "1"
+    }
+  ],
+  "title": "Administrative Declaration of a Disaster for the State of Texas",
+  "collectionName": "Federal Register",
+  "billingCode": "8026-09-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04989",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04989/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04989/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04989/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04989",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

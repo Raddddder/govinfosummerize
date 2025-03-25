@@ -1,0 +1,32 @@
+{
+  "summary": "On January 16, 2025, the Department of Health and Human Services published a final rule to make effective the exemptions that were previously proposed for a new Privacy Act system of records, \"NIH Police Records,\" maintained by the National Institutes of Health (NIH), from certain requirements of the Act. That final rule was originally scheduled to take effect on February 18, 2025. Subsequently, the effective date was delayed until March 21, 2025, in response to the memorandum titled \"Regulatory Freeze Pending Review,\" issued by the President on January 20, 2025. This notice further delays the effective date until May 5, 2025.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04979",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    }
+  ],
+  "title": "Privacy Act; Implementation; Further Delay of Effective Date",
+  "collectionName": "Federal Register",
+  "billingCode": "4150-01-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04979",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04979/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04979/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04979/pdf"
+  },
+  "rin": "0925-AA69",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04979",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,31 @@
+{
+  "summary": "The Department of Homeland Security (\"DHS\") is terminating the categorical parole programs for inadmissible aliens from Cuba, Haiti, Nicaragua, and Venezuela and their immediate family members (hereinafter referred to as \"CHNV parole programs\") that DHS announced in 2022 and 2023. This Federal Register notice is intended to provide context and guidance to the public regarding the termination of the CHNV parole programs and related employment authorization.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-05128",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HOMELAND SECURITY",
+      "order": "1"
+    }
+  ],
+  "title": "Termination of Parole Processes for Cubans, Haitians, Nicaraguans, and Venezuelans",
+  "collectionName": "Federal Register",
+  "billingCode": "9110-9M-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-05128",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05128/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05128/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05128/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-05128",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

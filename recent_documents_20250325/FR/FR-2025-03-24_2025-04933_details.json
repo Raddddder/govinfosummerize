@@ -1,0 +1,35 @@
+{
+  "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reporting burden (time and financial resources) is minimized; collection instruments are clearly understood; and the impact of collection requirements on respondents can be properly assessed. Currently, the OWCP is soliciting comments on the information collection for the Carrier's Report of Issuance of Policy, LS-570.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-04933",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF LABOR",
+      "order": "1"
+    },
+    {
+      "name": "Office of Workers' Compensation Programs",
+      "order": "2"
+    }
+  ],
+  "title": "Proposed Extension of Information Collection; Carrier's Report of Issuance of Policy",
+  "collectionName": "Federal Register",
+  "billingCode": "4510-CF-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04933",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04933/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04933/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-04933/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04933",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

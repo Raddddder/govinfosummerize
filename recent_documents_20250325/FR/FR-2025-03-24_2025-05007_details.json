@@ -1,0 +1,40 @@
+{
+  "summary": "In the January 17, 2025, issue of the Federal Register, the Drug Enforcement Administration and the Department of Health and Human Services published two final rules related to the practice of telemedicine, titled \"Expansion of Buprenorphine Treatment via Telemedicine Encounter\" and \"Continuity of Care via Telemedicine for Veterans Affairs Patients.\" These final rules were originally scheduled to become final on February 18, 2025. In accordance with the Presidential Memorandum of January 20, 2025, titled \"Regulatory Freeze Pending Review,\" the Drug Enforcement Administration and the Department of Health and Human Services delayed the effective dates of these two final rules to March 21, 2025, by issuing a final rule; delay of effective dates and request for comments in the February 19, 2025, issue of the Federal Register. The Drug Enforcement Administration received 32 comments in response to the request for public comments regarding the delayed effective date. Considering these comments, the Department of Justice wishes to further postpone the effective dates for the purpose of further reviewing any questions of fact, law, and policy that the rules may raise. Therefore, the Drug Enforcement Administration and the Department of Health and Human Services will delay the effective date of the two final rules titled \"Expansion of Buprenorphine Treatment via Telemedicine Encounter\" and \"Continuity of Care via Telemedicine for Veterans Affairs Patients\" to December 31, 2025.",
+  "dateIssued": "2025-03-24",
+  "packageId": "FR-2025-03-24",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-24/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-24/2025-05007",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF JUSTICE",
+      "order": "1"
+    },
+    {
+      "name": "Drug Enforcement Administration",
+      "order": "2"
+    },
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "3"
+    }
+  ],
+  "title": "Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients",
+  "collectionName": "Federal Register",
+  "billingCode": "4410-09-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-05007",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-24/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05007/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-24/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05007/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05007/pdf"
+  },
+  "rin": "1117-AB78",
+  "relatedLink": "https://api.govinfo.gov/related/2025-05007",
+  "docClass": "FR",
+  "lastModified": "2025-03-24T17:26:14Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=*&pageSize=100"
+}

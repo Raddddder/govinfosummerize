@@ -1,0 +1,27 @@
+{
+  "count": 67,
+  "offset": null,
+  "pageSize": 3,
+  "nextPage": "https://api.govinfo.gov/packages/FR-2025-03-24/granules?offsetMark=AoE4RlItMjAyNS0wMy0yNC0yMDI1LTA1MDA3&pageSize=3",
+  "previousPage": null,
+  "granules": [
+    {
+      "title": "Sunshine Act Meetings",
+      "granuleId": "2025-05033",
+      "granuleLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05033/summary",
+      "granuleClass": "NOTICE"
+    },
+    {
+      "title": "Sunshine Act Meetings",
+      "granuleId": "2025-05013",
+      "granuleLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05013/summary",
+      "granuleClass": "NOTICE"
+    },
+    {
+      "title": "Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients",
+      "granuleId": "2025-05007",
+      "granuleLink": "https://api.govinfo.gov/packages/FR-2025-03-24/granules/2025-05007/summary",
+      "granuleClass": "RULE"
+    }
+  ]
+}

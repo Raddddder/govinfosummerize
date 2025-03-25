@@ -1,0 +1,36 @@
+{
+  "summary": "The Coast Guard proposes to modify the operating schedule that governs the Florida East Coast (FEC) Railroad Bridge, across the Okeechobee Waterway (OWW), mile 7.41, at Stuart, FL. This proposed rule will allow the drawbridge to operate on a more predictable and reliable schedule to meet the needs of competing modes of transportation. This action is necessary due to a significant increase in railway activity. We invite your comments on this proposed rulemaking.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04918",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HOMELAND SECURITY",
+      "order": "1"
+    },
+    {
+      "name": "Coast Guard",
+      "order": "2"
+    }
+  ],
+  "title": "Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL",
+  "collectionName": "Federal Register",
+  "billingCode": "9110-04-P",
+  "granuleClass": "PRORULE",
+  "granuleId": "2025-04918",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04918/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04918/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04918/pdf"
+  },
+  "rin": "1625-AA09",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04918",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

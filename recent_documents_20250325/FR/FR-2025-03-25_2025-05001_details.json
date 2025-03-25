@@ -1,0 +1,34 @@
+{
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-05001",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    },
+    {
+      "name": "National Institutes of Health",
+      "order": "2"
+    }
+  ],
+  "title": "National Institute of Diabetes and Digestive and Kidney Diseases; Notice of Closed Meeting",
+  "collectionName": "Federal Register",
+  "billingCode": "4140-01-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-05001",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05001/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05001/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-05001/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-05001",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "In accordance with the memorandum of January 20, 2025, from the President, entitled \"Regulatory Freeze Pending Review,\" the effective date of the final rule, entitled \"Nonprescription Drug Product With an Additional Condition for Nonprescription Use,\" (ACNU) was delayed until March 21, 2025. Additional time is needed for review; therefore, the delay is extended for an additional 60 days.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04978",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+      "order": "1"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "order": "2"
+    }
+  ],
+  "title": "Nonprescription Drug Product With an Additional Condition for Nonprescription Use",
+  "collectionName": "Federal Register",
+  "billingCode": "4164-01-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04978",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04978/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04978/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04978/pdf"
+  },
+  "rin": "0910-AH62",
+  "relatedLink": "https://api.govinfo.gov/related/2025-04978",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

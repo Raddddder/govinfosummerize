@@ -1,0 +1,35 @@
+{
+  "summary": "The Assistant Secretary--Indian Affairs approved the residential leasing ordinance adopted by the Mohegan Tribe of Indians of Connecticut under the Helping Expedite and Advance Responsible Tribal Homeownership Act of 2012 (HEARTH Act). With this approval, the Tribe is authorized to enter into residential leases without further Secretary of the Interior approval.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04962",
+  "agencies": [
+    {
+      "name": "DEPARTMENT OF THE INTERIOR",
+      "order": "1"
+    },
+    {
+      "name": "Bureau of Indian Affairs",
+      "order": "2"
+    }
+  ],
+  "title": "HEARTH Act Approval of Mohegan Tribe of Indians of Connecticut, Residential Leasing Ordinance",
+  "collectionName": "Federal Register",
+  "billingCode": "4337-15-P",
+  "granuleClass": "NOTICE",
+  "granuleId": "2025-04962",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04962/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04962/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04962/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04962",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}

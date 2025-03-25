@@ -1,0 +1,31 @@
+{
+  "summary": "In this document, the Federal Communications Commission (Commission) announces that the Office of Management and Budget (OMB) has approved a new information collection associated with certain rules adopted in a 2024 Report and Order concerning the implementation of Next Generation 911 (NG911) (NG911 Report and Order). The Commission also announces that compliance with these rules is now required. The Commission also amends the rules to remove certain paragraphs advising that compliance with the Commission's information collection requirements was not required until the Commission obtained OMB approval. This document is consistent with the NG911 Report and Order and rules, which state the Commission will publish a document in the Federal Register announcing a compliance date for the rule sections subject to OMB approval, and revise the rules accordingly.",
+  "dateIssued": "2025-03-25",
+  "packageId": "FR-2025-03-25",
+  "packageLink": "https://api.govinfo.gov/packages/FR-2025-03-25/summary",
+  "collectionCode": "FR",
+  "detailsLink": "https://www.govinfo.gov/app/details/FR-2025-03-25/2025-04833",
+  "agencies": [
+    {
+      "name": "FEDERAL COMMUNICATIONS COMMISSION",
+      "order": "1"
+    }
+  ],
+  "title": "Facilitating Implementation of Next Generation 911 Services (NG911); Location-Based Routing for Wireless 911 Calls",
+  "collectionName": "Federal Register",
+  "billingCode": "6712-01-P",
+  "granuleClass": "RULE",
+  "granuleId": "2025-04833",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/FR-2025-03-25/premis",
+    "txtLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04833/htm",
+    "zipLink": "https://api.govinfo.gov/packages/FR-2025-03-25/zip",
+    "modsLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04833/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules/2025-04833/pdf"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/2025-04833",
+  "docClass": "FR",
+  "lastModified": "2025-03-25T05:24:01Z",
+  "category": "Regulatory Information",
+  "granulesLink": "https://api.govinfo.gov/packages/FR-2025-03-25/granules?offsetMark=*&pageSize=100"
+}
