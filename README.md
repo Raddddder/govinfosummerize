@@ -160,6 +160,8 @@ pip install requests beautifulsoup4
 直接运行提供的shell脚本即可一键获取最近两天的FR和BILLS文档，并生成摘要：
 
 ```bash
+cd GOVINFOAPI
+chmod +x run_full_pipeline.sh
 ./run_full_pipeline.sh
 ```
 
@@ -196,38 +198,34 @@ document_summarizer.py 脚本的处理流程如下：
 
 ## 高级用法
 
-如果需要更精细的控制，可以直接使用以下脚本：
-
-### 获取最近两天文档
-
+### 文档获取
 ```bash
-python get_recent_two_days_documents.py --api_key YOUR_API_KEY --collections FR BILLS --page_size 100 --max_documents 200
+python get_recent_two_days_documents.py --api_key YOUR_GOVINFO_API_KEY --collections FR BILLS --page_size 100 --output_dir recent_documents --max_documents 1000
 ```
 
-### 生成摘要
-
+### 摘要生成
 ```bash
-python document_summarizer.py --api_key YOUR_API_KEY --input_dir recent_documents_YYYYMMDD --output_file document_summaries_YYYYMMDD.json
+python document_summarizer.py --api_key YOUR_DEEPSEEK_API_KEY --input_dir recent_documents --output_file document_summaries.json --threads 5 --chunk_size 8000 --api_delay 0.5
 ```
 
-### 一体化执行
-
+### 完整分析流程
 ```bash
-python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --collections FR BILLS --page_size 100 --max_documents 200
+python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --collections FR BILLS --page_size 100 --output_dir recent_documents --summaries_file document_summaries.json --max_documents 1000 --threads 5 --chunk_size 8000 --api_delay 0.5
 ```
 
 ### 只生成报告
-
-如果您已经生成了摘要，但只想重新生成报告：
-
 ```bash
-python document_summarizer.py --api_key YOUR_API_KEY --input_dir recent_documents_YYYYMMDD --output_file document_summaries_YYYYMMDD.json --report
+python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --report_only --output_dir recent_documents --summaries_file document_summaries.json
 ```
 
-### 只更新统计报告
-
+### 跳过下载只生成摘要
 ```bash
-python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --report_only
+python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --skip_download --output_dir recent_documents --summaries_file document_summaries.json
+```
+
+### 只下载文档不生成摘要
+```bash
+python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --skip_summary --output_dir recent_documents
 ```
 
 ## 参数说明
