@@ -25,8 +25,11 @@ BILLS反映的是立法部门（国会）的立法活动
 - 所有输出文件名自动添加日期标记
 # 「TODO」
 1.修改获取的时间窗口（2天改为1天）
+
 2.针对生成的5000页的法案内容进行【基于prompt】的筛选
+
 3.【基于prompt】内容包括：
+
 （待验证）居于单一文本的：
 ```
 As an analyst, evaluate the given text source regarding its relationship to US data restrictions based on three dimensions. Please analyze the content and provide a structured assessment in the following format:
@@ -75,7 +78,9 @@ Please provide the analysis results in the following JSON format:
 
 Note: Only include key terms if they are actually present in the text.
  ```
+
 (待验证)基于多信源在内需要筛选的：
+
 ```
 As an analyst, evaluate a collection of text sources and identify those specifically related to US data restrictions. For each relevant source within the input text:
 
