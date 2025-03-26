@@ -173,11 +173,11 @@ chmod +x run_full_pipeline.sh
 ## 输出文件
 
 脚本运行后会生成以下带日期标记的文件（YYYYMMDD表示运行日期）：
-
-- `recent_documents_YYYYMMDD/`：包含所有下载的文档和子条目信息
-- `document_summaries_YYYYMMDD.json`：包含所有文档摘要的JSON文件
-- `document_summaries_YYYYMMDD_report.md`：格式化的摘要报告
-- `recent_documents_YYYYMMDD/document_counts_report_YYYYMMDD.md`：文档数量统计报告
+- `YYYYMMDD`:日期文件夹
+- `recent_documents`：包含所有下载的文档和子条目信息
+- `document_summaries.json`：包含所有文档摘要的JSON文件
+- `document_summaries_report.md`：格式化的摘要报告
+- `recent_documents/document_counts_report.md`：文档数量统计报告
 
 ## 文档摘要处理流程
 
