@@ -1,0 +1,319 @@
+{
+  "originChamber": "HOUSE",
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hres244ih",
+  "isPrivate": "false",
+  "title": "Recognizing the cultural and historical significance of Nowruz.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hres244ih/pdf"
+  },
+  "pages": "4",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hres244/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hres244ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000397",
+      "name": [
+        {
+          "authority-lnf": "Lofgren, Zoe",
+          "parsed": "Ms. Lofgren",
+          "authority-fnf": "Zoe Lofgren"
+        }
+      ],
+      "memberName": "Lofgren, Zoe",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "A000381",
+      "name": [
+        {
+          "authority-lnf": "Ansari, Yassamin",
+          "parsed": "Ms. Ansari",
+          "authority-fnf": "Yassamin Ansari"
+        }
+      ],
+      "memberName": "Ansari, Yassamin",
+      "state": "AZ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001298",
+      "name": [
+        {
+          "authority-lnf": "Bacon, Don",
+          "parsed": "Mr. Bacon",
+          "authority-fnf": "Don Bacon"
+        }
+      ],
+      "memberName": "Bacon, Don",
+      "state": "NE",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B000740",
+      "name": [
+        {
+          "authority-lnf": "Bice, Stephanie I.",
+          "authority-other": "Mrs. Stephanie Bice",
+          "parsed": "Mrs. Bice",
+          "authority-fnf": "Stephanie I. Bice"
+        }
+      ],
+      "memberName": "Bice, Stephanie I.",
+      "state": "OK",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001072",
+      "name": [
+        {
+          "authority-lnf": "Carson, Andre",
+          "parsed": "Mr. Carson",
+          "authority-fnf": "Andre Carson"
+        }
+      ],
+      "memberName": "Carson, Andre",
+      "state": "IN",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001078",
+      "name": [
+        {
+          "authority-lnf": "Connolly, Gerald E.",
+          "authority-other": "Mr. Gerald Connolly",
+          "parsed": "Mr. Connolly",
+          "authority-fnf": "Gerald E. Connolly"
+        }
+      ],
+      "memberName": "Connolly, Gerald E.",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000466",
+      "name": [
+        {
+          "authority-lnf": "Fitzpatrick, Brian K.",
+          "authority-other": "Mr. Brian Fitzpatrick",
+          "parsed": "Mr. Fitzpatrick",
+          "authority-fnf": "Brian K. Fitzpatrick"
+        }
+      ],
+      "memberName": "Fitzpatrick, Brian K.",
+      "state": "PA",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "H001047",
+      "name": [
+        {
+          "authority-lnf": "Himes, James A.",
+          "authority-other": "Mr. James Himes",
+          "parsed": "Mr. Himes",
+          "authority-fnf": "James A. Himes"
+        }
+      ],
+      "memberName": "Himes, James A.",
+      "state": "CT",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001208",
+      "name": [
+        {
+          "authority-lnf": "McBath, Lucy",
+          "parsed": "Mrs. McBath",
+          "authority-fnf": "Lucy McBath"
+        }
+      ],
+      "memberName": "McBath, Lucy",
+      "state": "GA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001241",
+      "name": [
+        {
+          "authority-lnf": "Min, Dave",
+          "parsed": "Mr. Min",
+          "authority-fnf": "Dave Min"
+        }
+      ],
+      "memberName": "Min, Dave",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001225",
+      "name": [
+        {
+          "authority-lnf": "Mullin, Kevin",
+          "parsed": "Mr. Mullin",
+          "authority-fnf": "Kevin Mullin"
+        }
+      ],
+      "memberName": "Mullin, Kevin",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "N000147",
+      "name": [
+        {
+          "authority-lnf": "Norton, Eleanor Holmes",
+          "authority-other": "Ms. Eleanor Norton",
+          "parsed": "Ms. Norton",
+          "authority-fnf": "Eleanor Holmes Norton"
+        }
+      ],
+      "memberName": "Norton, Eleanor Holmes",
+      "state": "DC",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000608",
+      "name": [
+        {
+          "authority-lnf": "Peters, Scott H.",
+          "authority-other": "Mr. Scott Peters",
+          "parsed": "Mr. Peters",
+          "authority-fnf": "Scott H. Peters"
+        }
+      ],
+      "memberName": "Peters, Scott H.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S000168",
+      "name": [
+        {
+          "authority-lnf": "Salazar, Maria Elvira",
+          "authority-other": "Ms. Maria Salazar",
+          "parsed": "Ms. Salazar",
+          "authority-fnf": "Maria Elvira Salazar"
+        }
+      ],
+      "memberName": "Salazar, Maria Elvira",
+      "state": "FL",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S000344",
+      "name": [
+        {
+          "authority-lnf": "Sherman, Brad",
+          "parsed": "Mr. Sherman",
+          "authority-fnf": "Brad Sherman"
+        }
+      ],
+      "memberName": "Sherman, Brad",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001193",
+      "name": [
+        {
+          "authority-lnf": "Swalwell, Eric",
+          "parsed": "Mr. Swalwell",
+          "authority-fnf": "Eric Swalwell"
+        }
+      ],
+      "memberName": "Swalwell, Eric",
+      "state": "CA",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/7:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hres",
+  "packageId": "BILLS-119hres244ih",
+  "committees": [
+    {
+      "authorityId": "hsfa00",
+      "chamber": "H",
+      "committeeName": "Committee on Foreign Affairs",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hres",
+  "lastModified": "2025-03-25T07:19:14Z",
+  "category": "Bills and Statutes",
+  "billNumber": "244",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hr244_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325574",
+    "stock-number": "021-610-00252-9"
+  }
+}

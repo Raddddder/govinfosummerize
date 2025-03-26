@@ -15,6 +15,7 @@ def run_command(command, description=None):
         print(f"\n{'=' * 80}")
         print(f"正在{description}...")
         print(f"{'=' * 80}\n")
+        sys.stdout.flush()  # 确保描述信息立即显示
     
     try:
         process = subprocess.Popen(
@@ -22,13 +23,17 @@ def run_command(command, description=None):
             stdout=subprocess.PIPE,
             stderr=subprocess.STDOUT,
             text=True,
-            bufsize=1,
+            bufsize=1,  # 行缓冲
             universal_newlines=True
         )
         
         # 实时显示输出
-        for line in process.stdout:
-            print(line, end='')
+        while True:
+            line = process.stdout.readline()
+            if not line and process.poll() is not None:
+                break
+            if line:
+                print(line, end='', flush=True)  # 立即刷新输出
         
         process.wait()
         
@@ -127,6 +132,9 @@ def main():
     parser.add_argument('--skip_download', action='store_true', help='跳过下载步骤，直接生成摘要')
     parser.add_argument('--skip_summary', action='store_true', help='跳过摘要生成步骤，只下载文档')
     parser.add_argument('--report_only', action='store_true', help='只生成报告，不下载也不生成摘要')
+    parser.add_argument('--threads', type=int, default=5, help="并发线程数，默认为5")
+    parser.add_argument('--chunk_size', type=int, default=8000, help="文本块大小，默认为8000字符")
+    parser.add_argument('--api_delay', type=float, default=0.5, help="API调用之间的延迟时间（秒），默认为0.5秒")
     
     args = parser.parse_args()
     
@@ -138,10 +146,6 @@ def main():
     # 获取当前日期作为文件名的一部分
     today_date = datetime.datetime.now().strftime('%Y%m%d')
     
-    # 调整输出文件名和目录，添加日期
-    output_dir_with_date = f"{args.output_dir}_{today_date}"
-    summaries_file_with_date = os.path.splitext(args.summaries_file)[0] + f"_{today_date}" + os.path.splitext(args.summaries_file)[1]
-    
     if args.report_only:
         # 只生成报告
         counts, details, _ = count_documents_by_collection(args.output_dir)
@@ -150,8 +154,11 @@ def main():
             'python', 'document_summarizer.py',
             '--api_key', args.govinfo_api_key,
             '--input_dir', args.output_dir,
-            '--output_file', summaries_file_with_date,
-            '--report'
+            '--output_file', args.summaries_file,
+            '--report',
+            '--threads', str(args.threads),
+            '--chunk_size', str(args.chunk_size),
+            '--api_delay', str(args.api_delay)
         ]
         run_command(report_cmd, "生成摘要报告")
         
@@ -176,15 +183,15 @@ def main():
         except Exception as e:
             print(f"更新DeepSeek API密钥时出错: {e}")
         
-        # 创建包含日期的输出目录
-        if not os.path.exists(output_dir_with_date):
-            os.makedirs(output_dir_with_date)
+        # 创建输出目录
+        if not os.path.exists(args.output_dir):
+            os.makedirs(args.output_dir)
         
         # 下载文档
         download_cmd = [
             'python', 'get_recent_two_days_documents.py',
             '--api_key', args.govinfo_api_key,
-            '--output_dir', output_dir_with_date,
+            '--output_dir', args.output_dir,
             '--page_size', str(args.page_size),
             '--max_documents', str(args.max_documents)
         ]
@@ -200,10 +207,7 @@ def main():
             return
         
         # 生成统计报告
-        counts, details, _ = count_documents_by_collection(output_dir_with_date)
-        
-        # 使用带日期的目录
-        args.output_dir = output_dir_with_date
+        counts, details, _ = count_documents_by_collection(args.output_dir)
     else:
         print("已跳过文档下载步骤")
     
@@ -213,7 +217,10 @@ def main():
             'python', 'document_summarizer.py',
             '--api_key', args.govinfo_api_key,
             '--input_dir', args.output_dir,
-            '--output_file', summaries_file_with_date
+            '--output_file', args.summaries_file,
+            '--threads', str(args.threads),
+            '--chunk_size', str(args.chunk_size),
+            '--api_delay', str(args.api_delay)
         ]
         
         success = run_command(summary_cmd, "生成文档摘要")
@@ -221,10 +228,10 @@ def main():
         if not success:
             print("摘要生成失败")
         else:
-            print(f"摘要文件已保存为: {summaries_file_with_date}")
+            print(f"摘要文件已保存为: {args.summaries_file}")
             
             # 获取摘要报告文件名
-            summary_report = os.path.splitext(summaries_file_with_date)[0] + "_report.md"
+            summary_report = os.path.splitext(args.summaries_file)[0] + "_report.md"
             print(f"摘要报告已保存为: {summary_report}")
     else:
         print("已跳过摘要生成步骤")
@@ -234,10 +241,10 @@ def main():
     
     # 打印文件名信息
     print("\n===== 输出文件信息 =====")
-    print(f"1. 文档目录: {output_dir_with_date}")
-    print(f"2. 摘要文件: {summaries_file_with_date}")
-    print(f"3. 摘要报告: {os.path.splitext(summaries_file_with_date)[0]}_report.md")
-    print(f"4. 文档统计报告: {output_dir_with_date}/document_counts_report_{today_date}.md")
+    print(f"1. 文档目录: {args.output_dir}")
+    print(f"2. 摘要文件: {args.summaries_file}")
+    print(f"3. 摘要报告: {os.path.splitext(args.summaries_file)[0]}_report.md")
+    print(f"4. 文档统计报告: {args.output_dir}/document_counts_report_{today_date}.md")
 
 if __name__ == "__main__":
     main() 

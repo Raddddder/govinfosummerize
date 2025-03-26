@@ -1,0 +1,126 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "632",
+            "656"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr1621rh",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "Entrepreneurs with Disabilities Reporting Act of 2025"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To require the Administrator of the Small Business Administration to submit to Congress a report on the entrepreneurial challenges facing entrepreneurs with a disability, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr1621rh/pdf"
+  },
+  "pages": "6",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr1621/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr1621rh",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001220",
+      "name": [
+        {
+          "authority-lnf": "McGarvey, Morgan",
+          "parsed": "Mr. McGarvey",
+          "authority-fnf": "Morgan McGarvey"
+        }
+      ],
+      "memberName": "McGarvey, Morgan",
+      "state": "KY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001212",
+      "name": [
+        {
+          "authority-lnf": "Stauber, Pete",
+          "parsed": "Mr. Stauber",
+          "authority-fnf": "Pete Stauber"
+        }
+      ],
+      "memberName": "Stauber, Pete",
+      "state": "MN",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000604",
+      "name": [
+        {
+          "authority-lnf": "Goodlander, Maggie",
+          "parsed": "Ms. Goodlander",
+          "authority-fnf": "Maggie Goodlander"
+        }
+      ],
+      "memberName": "Goodlander, Maggie",
+      "state": "NH",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "rh",
+  "billType": "hr",
+  "packageId": "BILLS-119hr1621rh",
+  "committees": [
+    {
+      "authorityId": "hssm00",
+      "chamber": "H",
+      "committeeName": "Committee on Small Business",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T07:18:59Z",
+  "category": "Bills and Statutes",
+  "billNumber": "1621",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h1621_rh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "632"
+          ]
+        },
+        {
+          "label": "U.S.C",
+          "title": "41",
+          "sections": [
+            "1708"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr787rh",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "Plain Language in Contracting Act"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To require plain language and the inclusion of key words in covered notices that are clear, concise, and accessible to small business concerns, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr787rh/pdf"
+  },
+  "pages": "6",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr787/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr787rh",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000598",
+      "name": [
+        {
+          "authority-lnf": "LaLota, Nick",
+          "parsed": "Mr. LaLota",
+          "authority-fnf": "Nick LaLota"
+        }
+      ],
+      "memberName": "LaLota, Nick",
+      "state": "NY",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000491",
+      "name": [
+        {
+          "authority-lnf": "Tran, Derek",
+          "parsed": "Mr. Tran",
+          "authority-fnf": "Derek Tran"
+        }
+      ],
+      "memberName": "Tran, Derek",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000488",
+      "name": [
+        {
+          "authority-lnf": "Thanedar, Shri",
+          "parsed": "Mr. Thanedar",
+          "authority-fnf": "Shri Thanedar"
+        }
+      ],
+      "memberName": "Thanedar, Shri",
+      "state": "MI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000604",
+      "name": [
+        {
+          "authority-lnf": "Goodlander, Maggie",
+          "parsed": "Ms. Goodlander",
+          "authority-fnf": "Maggie Goodlander"
+        }
+      ],
+      "memberName": "Goodlander, Maggie",
+      "state": "NH",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "rh",
+  "billType": "hr",
+  "packageId": "BILLS-119hr787rh",
+  "committees": [
+    {
+      "authorityId": "hssm00",
+      "chamber": "H",
+      "committeeName": "Committee on Small Business",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T07:19:19Z",
+  "category": "Bills and Statutes",
+  "billNumber": "787",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h787_rh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}

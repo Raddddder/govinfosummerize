@@ -1,0 +1,2096 @@
+{
+  "originChamber": "HOUSE",
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hjres80ih",
+  "isPrivate": "false",
+  "title": "Establishing the ratification of the Equal Rights Amendment.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hjres80ih/pdf"
+  },
+  "pages": "2",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hjres80/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hjres80ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000617",
+      "name": [
+        {
+          "authority-lnf": "Pressley, Ayanna",
+          "parsed": "Ms. Pressley",
+          "authority-fnf": "Ayanna Pressley"
+        }
+      ],
+      "memberName": "Pressley, Ayanna",
+      "state": "MA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000587",
+      "name": [
+        {
+          "authority-lnf": "Garcia, Sylvia R.",
+          "authority-other": "Ms. Sylvia Garcia",
+          "parsed": "Ms. Garcia of Texas",
+          "authority-fnf": "Sylvia R. Garcia"
+        }
+      ],
+      "memberName": "Garcia, Sylvia R.",
+      "state": "TX",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000631",
+      "name": [
+        {
+          "authority-lnf": "Dean, Madeleine",
+          "parsed": "Ms. Dean of Pennsylvania",
+          "authority-fnf": "Madeleine Dean"
+        }
+      ],
+      "memberName": "Dean, Madeleine",
+      "state": "PA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "K000400",
+      "name": [
+        {
+          "authority-lnf": "Kamlager-Dove, Sydney",
+          "parsed": "Ms. Kamlager-Dove",
+          "authority-fnf": "Sydney Kamlager-Dove"
+        }
+      ],
+      "memberName": "Kamlager-Dove, Sydney",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001227",
+      "name": [
+        {
+          "authority-lnf": "McClellan, Jennifer L.",
+          "authority-other": "Ms. Jennifer Mcclellan",
+          "parsed": "Ms. McClellan",
+          "authority-fnf": "Jennifer L. McClellan"
+        }
+      ],
+      "memberName": "McClellan, Jennifer L.",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000481",
+      "name": [
+        {
+          "authority-lnf": "Tlaib, Rashida",
+          "parsed": "Ms. Tlaib",
+          "authority-fnf": "Rashida Tlaib"
+        }
+      ],
+      "memberName": "Tlaib, Rashida",
+      "state": "MI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000530",
+      "name": [
+        {
+          "authority-lnf": "Deluzio, Christopher R.",
+          "authority-other": "Mr. Christopher Deluzio",
+          "parsed": "Mr. Deluzio",
+          "authority-fnf": "Christopher R. Deluzio"
+        }
+      ],
+      "memberName": "Deluzio, Christopher R.",
+      "state": "PA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001159",
+      "name": [
+        {
+          "authority-lnf": "Strickland, Marilyn",
+          "parsed": "Ms. Strickland",
+          "authority-fnf": "Marilyn Strickland"
+        }
+      ],
+      "memberName": "Strickland, Marilyn",
+      "state": "WA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001229",
+      "name": [
+        {
+          "authority-lnf": "McIver, LaMonica",
+          "parsed": "Mrs. McIver",
+          "authority-fnf": "LaMonica McIver"
+        }
+      ],
+      "memberName": "McIver, LaMonica",
+      "state": "NJ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "K000375",
+      "name": [
+        {
+          "authority-lnf": "Keating, William R.",
+          "authority-other": "Mr. William Keating",
+          "parsed": "Mr. Keating",
+          "authority-fnf": "William R. Keating"
+        }
+      ],
+      "memberName": "Keating, William R.",
+      "state": "MA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000454",
+      "name": [
+        {
+          "authority-lnf": "Foster, Bill",
+          "parsed": "Mr. Foster",
+          "authority-fnf": "Bill Foster"
+        }
+      ],
+      "memberName": "Foster, Bill",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000468",
+      "name": [
+        {
+          "authority-lnf": "Titus, Dina",
+          "parsed": "Ms. Titus",
+          "authority-fnf": "Dina Titus"
+        }
+      ],
+      "memberName": "Titus, Dina",
+      "state": "NV",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000399",
+      "name": [
+        {
+          "authority-lnf": "Doggett, Lloyd",
+          "parsed": "Mr. Doggett",
+          "authority-fnf": "Lloyd Doggett"
+        }
+      ],
+      "memberName": "Doggett, Lloyd",
+      "state": "TX",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000608",
+      "name": [
+        {
+          "authority-lnf": "Peters, Scott H.",
+          "authority-other": "Mr. Scott Peters",
+          "parsed": "Mr. Peters",
+          "authority-fnf": "Scott H. Peters"
+        }
+      ],
+      "memberName": "Peters, Scott H.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000096",
+      "name": [
+        {
+          "authority-lnf": "Davis, Danny K.",
+          "authority-other": "Mr. Danny Davis",
+          "parsed": "Mr. Davis of Illinois",
+          "authority-fnf": "Danny K. Davis"
+        }
+      ],
+      "memberName": "Davis, Danny K.",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000598",
+      "name": [
+        {
+          "authority-lnf": "Garcia, Robert",
+          "parsed": "Mr. Garcia of California",
+          "authority-fnf": "Robert Garcia"
+        }
+      ],
+      "memberName": "Garcia, Robert",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000617",
+      "name": [
+        {
+          "authority-lnf": "Ramirez, Delia C.",
+          "authority-other": "Mrs. Delia Ramirez",
+          "parsed": "Mrs. Ramirez",
+          "authority-fnf": "Delia C. Ramirez"
+        }
+      ],
+      "memberName": "Ramirez, Delia C.",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000597",
+      "name": [
+        {
+          "authority-lnf": "Pingree, Chellie",
+          "parsed": "Ms. Pingree",
+          "authority-fnf": "Chellie Pingree"
+        }
+      ],
+      "memberName": "Pingree, Chellie",
+      "state": "ME",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001078",
+      "name": [
+        {
+          "authority-lnf": "Connolly, Gerald E.",
+          "authority-other": "Mr. Gerald Connolly",
+          "parsed": "Mr. Connolly",
+          "authority-fnf": "Gerald E. Connolly"
+        }
+      ],
+      "memberName": "Connolly, Gerald E.",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "V000081",
+      "name": [
+        {
+          "authority-lnf": "Velazquez, Nydia M.",
+          "authority-other": "Ms. Nydia Velazquez",
+          "parsed": "Ms. Velázquez",
+          "authority-fnf": "Nydia M. Velazquez"
+        }
+      ],
+      "memberName": "Velazquez, Nydia M.",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001080",
+      "name": [
+        {
+          "authority-lnf": "Chu, Judy",
+          "parsed": "Ms. Chu",
+          "authority-fnf": "Judy Chu"
+        }
+      ],
+      "memberName": "Chu, Judy",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "J000298",
+      "name": [
+        {
+          "authority-lnf": "Jayapal, Pramila",
+          "parsed": "Ms. Jayapal",
+          "authority-fnf": "Pramila Jayapal"
+        }
+      ],
+      "memberName": "Jayapal, Pramila",
+      "state": "WA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001281",
+      "name": [
+        {
+          "authority-lnf": "Beatty, Joyce",
+          "parsed": "Mrs. Beatty",
+          "authority-fnf": "Joyce Beatty"
+        }
+      ],
+      "memberName": "Beatty, Joyce",
+      "state": "OH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "Q000023",
+      "name": [
+        {
+          "authority-lnf": "Quigley, Mike",
+          "parsed": "Mr. Quigley",
+          "authority-fnf": "Mike Quigley"
+        }
+      ],
+      "memberName": "Quigley, Mike",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001127",
+      "name": [
+        {
+          "authority-lnf": "Cherfilus-McCormick, Sheila",
+          "parsed": "Mrs. Cherfilus-McCormick",
+          "authority-fnf": "Sheila Cherfilus-McCormick"
+        }
+      ],
+      "memberName": "Cherfilus-McCormick, Sheila",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001145",
+      "name": [
+        {
+          "authority-lnf": "Schakowsky, Janice D.",
+          "authority-other": "Ms. Janice Schakowsky",
+          "parsed": "Ms. Schakowsky",
+          "authority-fnf": "Janice D. Schakowsky"
+        }
+      ],
+      "memberName": "Schakowsky, Janice D.",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001196",
+      "name": [
+        {
+          "authority-lnf": "Moulton, Seth",
+          "parsed": "Mr. Moulton",
+          "authority-fnf": "Seth Moulton"
+        }
+      ],
+      "memberName": "Moulton, Seth",
+      "state": "MA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000808",
+      "name": [
+        {
+          "authority-lnf": "Wilson, Frederica S.",
+          "authority-other": "Ms. Frederica Wilson",
+          "parsed": "Ms. Wilson of Florida",
+          "authority-fnf": "Frederica S. Wilson"
+        }
+      ],
+      "memberName": "Wilson, Frederica S.",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "O000173",
+      "name": [
+        {
+          "authority-lnf": "Omar, Ilhan",
+          "parsed": "Ms. Omar",
+          "authority-fnf": "Ilhan Omar"
+        }
+      ],
+      "memberName": "Omar, Ilhan",
+      "state": "MN",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001067",
+      "name": [
+        {
+          "authority-lnf": "Clarke, Yvette D.",
+          "authority-other": "Ms. Yvette Clarke",
+          "parsed": "Ms. Clarke of New York",
+          "authority-fnf": "Yvette D. Clarke"
+        }
+      ],
+      "memberName": "Clarke, Yvette D.",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001214",
+      "name": [
+        {
+          "authority-lnf": "Mrvan, Frank J.",
+          "authority-other": "Mr. Frank Mrvan",
+          "parsed": "Mr. Mrvan",
+          "authority-fnf": "Frank J. Mrvan"
+        }
+      ],
+      "memberName": "Mrvan, Frank J.",
+      "state": "IN",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000476",
+      "name": [
+        {
+          "authority-lnf": "Frost, Maxwell",
+          "parsed": "Mr. Frost",
+          "authority-fnf": "Maxwell Frost"
+        }
+      ],
+      "memberName": "Frost, Maxwell",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001190",
+      "name": [
+        {
+          "authority-lnf": "Schneider, Bradley Scott",
+          "authority-other": "Mr. Bradley Schneider",
+          "parsed": "Mr. Schneider",
+          "authority-fnf": "Bradley Scott Schneider"
+        }
+      ],
+      "memberName": "Schneider, Bradley Scott",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001059",
+      "name": [
+        {
+          "authority-lnf": "Costa, Jim",
+          "parsed": "Mr. Costa",
+          "authority-fnf": "Jim Costa"
+        }
+      ],
+      "memberName": "Costa, Jim",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000797",
+      "name": [
+        {
+          "authority-lnf": "Wasserman Schultz, Debbie",
+          "parsed": "Ms. Wasserman Schultz",
+          "authority-fnf": "Debbie Wasserman Schultz"
+        }
+      ],
+      "memberName": "Wasserman Schultz, Debbie",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001160",
+      "name": [
+        {
+          "authority-lnf": "Moore, Gwen",
+          "parsed": "Ms. Moore of Wisconsin",
+          "authority-fnf": "Gwen Moore"
+        }
+      ],
+      "memberName": "Moore, Gwen",
+      "state": "WI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "N000188",
+      "name": [
+        {
+          "authority-lnf": "Norcross, Donald",
+          "parsed": "Mr. Norcross",
+          "authority-fnf": "Donald Norcross"
+        }
+      ],
+      "memberName": "Norcross, Donald",
+      "state": "NJ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001066",
+      "name": [
+        {
+          "authority-lnf": "Castor, Kathy",
+          "parsed": "Ms. Castor of Florida",
+          "authority-fnf": "Kathy Castor"
+        }
+      ],
+      "memberName": "Castor, Kathy",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "N000191",
+      "name": [
+        {
+          "authority-lnf": "Neguse, Joe",
+          "parsed": "Mr. Neguse",
+          "authority-fnf": "Joe Neguse"
+        }
+      ],
+      "memberName": "Neguse, Joe",
+      "state": "CO",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001223",
+      "name": [
+        {
+          "authority-lnf": "Sykes, Emilia Strong",
+          "authority-other": "Mrs. Emilia Sykes",
+          "parsed": "Mrs. Sykes",
+          "authority-fnf": "Emilia Strong Sykes"
+        }
+      ],
+      "memberName": "Sykes, Emilia Strong",
+      "state": "OH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001278",
+      "name": [
+        {
+          "authority-lnf": "Bonamici, Suzanne",
+          "parsed": "Ms. Bonamici",
+          "authority-fnf": "Suzanne Bonamici"
+        }
+      ],
+      "memberName": "Bonamici, Suzanne",
+      "state": "OR",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "E000296",
+      "name": [
+        {
+          "authority-lnf": "Evans, Dwight",
+          "parsed": "Mr. Evans of Pennsylvania",
+          "authority-fnf": "Dwight Evans"
+        }
+      ],
+      "memberName": "Evans, Dwight",
+      "state": "PA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001207",
+      "name": [
+        {
+          "authority-lnf": "Sherrill, Mikie",
+          "parsed": "Ms. Sherrill",
+          "authority-fnf": "Mikie Sherrill"
+        }
+      ],
+      "memberName": "Sherrill, Mikie",
+      "state": "NJ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001157",
+      "name": [
+        {
+          "authority-lnf": "Scott, David",
+          "parsed": "Mr. David Scott of Georgia",
+          "authority-fnf": "David Scott"
+        }
+      ],
+      "memberName": "Scott, David",
+      "state": "GA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001218",
+      "name": [
+        {
+          "authority-lnf": "Stansbury, Melanie A.",
+          "authority-other": "Ms. Melanie Stansbury",
+          "parsed": "Ms. Stansbury",
+          "authority-fnf": "Melanie A. Stansbury"
+        }
+      ],
+      "memberName": "Stansbury, Melanie A.",
+      "state": "NM",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "A000380",
+      "name": [
+        {
+          "authority-lnf": "Amo, Gabe",
+          "parsed": "Mr. Amo",
+          "authority-fnf": "Gabe Amo"
+        }
+      ],
+      "memberName": "Amo, Gabe",
+      "state": "RI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000607",
+      "name": [
+        {
+          "authority-lnf": "Pocan, Mark",
+          "parsed": "Mr. Pocan",
+          "authority-fnf": "Mark Pocan"
+        }
+      ],
+      "memberName": "Pocan, Mark",
+      "state": "WI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000230",
+      "name": [
+        {
+          "authority-lnf": "Davis, Donald G.",
+          "authority-other": "Mr. Donald Davis",
+          "parsed": "Mr. Davis of North Carolina",
+          "authority-fnf": "Donald G. Davis"
+        }
+      ],
+      "memberName": "Davis, Donald G.",
+      "state": "NC",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001163",
+      "name": [
+        {
+          "authority-lnf": "Matsui, Doris O.",
+          "authority-other": "Ms. Doris Matsui",
+          "parsed": "Ms. Matsui",
+          "authority-fnf": "Doris O. Matsui"
+        }
+      ],
+      "memberName": "Matsui, Doris O.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001206",
+      "name": [
+        {
+          "authority-lnf": "Morelle, Joseph D.",
+          "authority-other": "Mr. Joseph Morelle",
+          "parsed": "Mr. Morelle",
+          "authority-fnf": "Joseph D. Morelle"
+        }
+      ],
+      "memberName": "Morelle, Joseph D.",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "H000874",
+      "name": [
+        {
+          "authority-lnf": "Hoyer, Steny H.",
+          "authority-other": "Mr. Steny Hoyer",
+          "parsed": "Mr. Hoyer",
+          "authority-fnf": "Steny H. Hoyer"
+        }
+      ],
+      "memberName": "Hoyer, Steny H.",
+      "state": "MD",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001231",
+      "name": [
+        {
+          "authority-lnf": "Mannion, John",
+          "authority-other": "Mr. John W. Mannion",
+          "parsed": "Mr. Mannion",
+          "authority-fnf": "John Mannion"
+        }
+      ],
+      "memberName": "Mannion, John",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000629",
+      "name": [
+        {
+          "authority-lnf": "Davids, Sharice",
+          "parsed": "Ms. Davids of Kansas",
+          "authority-fnf": "Sharice Davids"
+        }
+      ],
+      "memberName": "Davids, Sharice",
+      "state": "KS",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000614",
+      "name": [
+        {
+          "authority-lnf": "Pappas, Chris",
+          "parsed": "Mr. Pappas",
+          "authority-fnf": "Chris Pappas"
+        }
+      ],
+      "memberName": "Pappas, Chris",
+      "state": "NH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001318",
+      "name": [
+        {
+          "authority-lnf": "Balint, Becca",
+          "parsed": "Ms. Balint",
+          "authority-fnf": "Becca Balint"
+        }
+      ],
+      "memberName": "Balint, Becca",
+      "state": "VT",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000305",
+      "name": [
+        {
+          "authority-lnf": "Ross, Deborah K.",
+          "authority-other": "Ms. Deborah Ross",
+          "parsed": "Ms. Ross",
+          "authority-fnf": "Deborah K. Ross"
+        }
+      ],
+      "memberName": "Ross, Deborah K.",
+      "state": "NC",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000600",
+      "name": [
+        {
+          "authority-lnf": "Perez, Marie Gluesenkamp",
+          "authority-other": "Ms. Marie Perez",
+          "parsed": "Ms. Perez",
+          "authority-fnf": "Marie Gluesenkamp Perez"
+        }
+      ],
+      "memberName": "Perez, Marie Gluesenkamp",
+      "state": "WA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001292",
+      "name": [
+        {
+          "authority-lnf": "Beyer, Donald S.",
+          "authority-other": "Mr. Donald Beyer Jr.",
+          "parsed": "Mr. Beyer",
+          "authority-fnf": "Donald S. Beyer, Jr."
+        }
+      ],
+      "memberName": "Beyer, Donald S.",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000590",
+      "name": [
+        {
+          "authority-lnf": "Lee, Susie",
+          "parsed": "Ms. Lee of Nevada",
+          "authority-fnf": "Susie Lee"
+        }
+      ],
+      "memberName": "Lee, Susie",
+      "state": "NV",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000110",
+      "name": [
+        {
+          "authority-lnf": "Fields, Cleo",
+          "parsed": "Mr. Fields",
+          "authority-fnf": "Cleo Fields"
+        }
+      ],
+      "memberName": "Fields, Cleo",
+      "state": "LA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "J000309",
+      "name": [
+        {
+          "authority-lnf": "Jackson, Jonathan L.",
+          "authority-other": "Mr. Jonathan Jackson",
+          "parsed": "Mr. Jackson of Illinois",
+          "authority-fnf": "Jonathan L. Jackson"
+        }
+      ],
+      "memberName": "Jackson, Jonathan L.",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "J000305",
+      "name": [
+        {
+          "authority-lnf": "Jacobs, Sara",
+          "parsed": "Ms. Jacobs",
+          "authority-fnf": "Sara Jacobs"
+        }
+      ],
+      "memberName": "Jacobs, Sara",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001156",
+      "name": [
+        {
+          "authority-lnf": "Sanchez, Linda T.",
+          "authority-other": "Ms. Linda Sanchez",
+          "parsed": "Ms. Sánchez",
+          "authority-fnf": "Linda T. Sanchez"
+        }
+      ],
+      "memberName": "Sanchez, Linda T.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M000312",
+      "name": [
+        {
+          "authority-lnf": "McGovern, James P.",
+          "authority-other": "Mr. James Mcgovern",
+          "parsed": "Mr. McGovern",
+          "authority-fnf": "James P. McGovern"
+        }
+      ],
+      "memberName": "McGovern, James P.",
+      "state": "MA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001313",
+      "name": [
+        {
+          "authority-lnf": "Brown, Shontel M.",
+          "authority-other": "Ms. Shontel Brown",
+          "parsed": "Ms. Brown",
+          "authority-fnf": "Shontel M. Brown"
+        }
+      ],
+      "memberName": "Brown, Shontel M.",
+      "state": "OH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000477",
+      "name": [
+        {
+          "authority-lnf": "Foushee, Valerie P.",
+          "authority-other": "Mrs. Valerie Foushee",
+          "parsed": "Mrs. Foushee",
+          "authority-fnf": "Valerie P. Foushee"
+        }
+      ],
+      "memberName": "Foushee, Valerie P.",
+      "state": "NC",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001326",
+      "name": [
+        {
+          "authority-lnf": "Bynum, Janelle",
+          "authority-other": "Ms. Janelle S. Bynum",
+          "parsed": "Ms. Bynum",
+          "authority-fnf": "Janelle Bynum"
+        }
+      ],
+      "memberName": "Bynum, Janelle",
+      "state": "OR",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "N000147",
+      "name": [
+        {
+          "authority-lnf": "Norton, Eleanor Holmes",
+          "authority-other": "Ms. Eleanor Norton",
+          "parsed": "Ms. Norton",
+          "authority-fnf": "Eleanor Holmes Norton"
+        }
+      ],
+      "memberName": "Norton, Eleanor Holmes",
+      "state": "DC",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000788",
+      "name": [
+        {
+          "authority-lnf": "Williams, Nikema",
+          "parsed": "Ms. Williams of Georgia",
+          "authority-fnf": "Nikema Williams"
+        }
+      ],
+      "memberName": "Williams, Nikema",
+      "state": "GA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "K000391",
+      "name": [
+        {
+          "authority-lnf": "Krishnamoorthi, Raja",
+          "parsed": "Mr. Krishnamoorthi",
+          "authority-fnf": "Raja Krishnamoorthi"
+        }
+      ],
+      "memberName": "Krishnamoorthi, Raja",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "E000301",
+      "name": [
+        {
+          "authority-lnf": "Elfreth, Sarah",
+          "parsed": "Ms. Elfreth",
+          "authority-fnf": "Sarah Elfreth"
+        }
+      ],
+      "memberName": "Elfreth, Sarah",
+      "state": "MD",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000197",
+      "name": [
+        {
+          "authority-lnf": "DeGette, Diana",
+          "parsed": "Ms. DeGette",
+          "authority-fnf": "Diana DeGette"
+        }
+      ],
+      "memberName": "DeGette, Diana",
+      "state": "CO",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000216",
+      "name": [
+        {
+          "authority-lnf": "DeLauro, Rosa L.",
+          "authority-other": "Ms. Rosa Delauro",
+          "parsed": "Ms. DeLauro",
+          "authority-fnf": "Rosa L. DeLauro"
+        }
+      ],
+      "memberName": "DeLauro, Rosa L.",
+      "state": "CT",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001112",
+      "name": [
+        {
+          "authority-lnf": "Carbajal, Salud O.",
+          "authority-other": "Mr. Salud Carbajal",
+          "parsed": "Mr. Carbajal",
+          "authority-fnf": "Salud O. Carbajal"
+        }
+      ],
+      "memberName": "Carbajal, Salud O.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "V000138",
+      "name": [
+        {
+          "authority-lnf": "Vindman, Eugene",
+          "authority-other": "Mr. Eugene Simon Vindman",
+          "parsed": "Mr. Vindman",
+          "authority-fnf": "Eugene Vindman"
+        }
+      ],
+      "memberName": "Vindman, Eugene",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S000510",
+      "name": [
+        {
+          "authority-lnf": "Smith, Adam",
+          "parsed": "Mr. Smith of Washington",
+          "authority-fnf": "Adam Smith"
+        }
+      ],
+      "memberName": "Smith, Adam",
+      "state": "WA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000599",
+      "name": [
+        {
+          "authority-lnf": "Lawler, Michael",
+          "parsed": "Mr. Lawler",
+          "authority-fnf": "Michael Lawler"
+        }
+      ],
+      "memberName": "Lawler, Michael",
+      "state": "NY",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "K000402",
+      "name": [
+        {
+          "authority-lnf": "Kennedy, Timothy M.",
+          "authority-other": "Timothy Kennedy",
+          "parsed": "Mr. Kennedy of New York",
+          "authority-fnf": "Timothy M. Kennedy"
+        }
+      ],
+      "memberName": "Kennedy, Timothy M.",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "name": [
+        {
+          "parsed": "Mrs. McClain Delaney"
+        }
+      ]
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001091",
+      "name": [
+        {
+          "authority-lnf": "Castro, Joaquin",
+          "parsed": "Mr. Castro of Texas",
+          "authority-fnf": "Joaquin Castro"
+        }
+      ],
+      "memberName": "Castro, Joaquin",
+      "state": "TX",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001130",
+      "name": [
+        {
+          "authority-lnf": "Crockett, Jasmine",
+          "parsed": "Ms. Crockett",
+          "authority-fnf": "Jasmine Crockett"
+        }
+      ],
+      "memberName": "Crockett, Jasmine",
+      "state": "TX",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001072",
+      "name": [
+        {
+          "authority-lnf": "Carson, Andre",
+          "parsed": "Mr. Carson",
+          "authority-fnf": "Andre Carson"
+        }
+      ],
+      "memberName": "Carson, Andre",
+      "state": "IN",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001143",
+      "name": [
+        {
+          "authority-lnf": "McCollum, Betty",
+          "parsed": "Ms. McCollum",
+          "authority-fnf": "Betty McCollum"
+        }
+      ],
+      "memberName": "McCollum, Betty",
+      "state": "MN",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000482",
+      "name": [
+        {
+          "authority-lnf": "Trahan, Lori",
+          "parsed": "Mrs. Trahan",
+          "authority-fnf": "Lori Trahan"
+        }
+      ],
+      "memberName": "Trahan, Lori",
+      "state": "MA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001125",
+      "name": [
+        {
+          "authority-lnf": "Carter, Troy A.",
+          "authority-other": "Mr. Troy Carter",
+          "parsed": "Mr. Carter of Louisiana",
+          "authority-fnf": "Troy A. Carter"
+        }
+      ],
+      "memberName": "Carter, Troy A.",
+      "state": "LA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001315",
+      "name": [
+        {
+          "authority-lnf": "Budzinski, Nikki",
+          "parsed": "Ms. Budzinski",
+          "authority-fnf": "Nikki Budzinski"
+        }
+      ],
+      "memberName": "Budzinski, Nikki",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S000344",
+      "name": [
+        {
+          "authority-lnf": "Sherman, Brad",
+          "parsed": "Mr. Sherman",
+          "authority-fnf": "Brad Sherman"
+        }
+      ],
+      "memberName": "Sherman, Brad",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001215",
+      "name": [
+        {
+          "authority-lnf": "Stevens, Haley M.",
+          "authority-other": "Ms. Haley Stevens",
+          "parsed": "Ms. Stevens",
+          "authority-fnf": "Haley M. Stevens"
+        }
+      ],
+      "memberName": "Stevens, Haley M.",
+      "state": "MI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001061",
+      "name": [
+        {
+          "authority-lnf": "Cleaver, Emanuel",
+          "parsed": "Mr. Cleaver",
+          "authority-fnf": "Emanuel Cleaver"
+        }
+      ],
+      "memberName": "Cleaver, Emanuel",
+      "state": "MO",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "N000002",
+      "name": [
+        {
+          "authority-lnf": "Nadler, Jerrold",
+          "parsed": "Mr. Nadler",
+          "authority-fnf": "Jerrold Nadler"
+        }
+      ],
+      "memberName": "Nadler, Jerrold",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000613",
+      "name": [
+        {
+          "authority-lnf": "Panetta, Jimmy",
+          "parsed": "Mr. Panetta",
+          "authority-fnf": "Jimmy Panetta"
+        }
+      ],
+      "memberName": "Panetta, Jimmy",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001287",
+      "name": [
+        {
+          "authority-lnf": "Bera, Ami",
+          "parsed": "Mr. Bera",
+          "authority-fnf": "Ami Bera"
+        }
+      ],
+      "memberName": "Bera, Ami",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000599",
+      "name": [
+        {
+          "authority-lnf": "Ruiz, Raul",
+          "parsed": "Mr. Ruiz",
+          "authority-fnf": "Raul Ruiz"
+        }
+      ],
+      "memberName": "Ruiz, Raul",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "O000172",
+      "name": [
+        {
+          "authority-lnf": "Ocasio-Cortez, Alexandria",
+          "parsed": "Ms. Ocasio-Cortez",
+          "authority-fnf": "Alexandria Ocasio-Cortez"
+        }
+      ],
+      "memberName": "Ocasio-Cortez, Alexandria",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "V000130",
+      "name": [
+        {
+          "authority-lnf": "Vargas, Juan",
+          "parsed": "Mr. Vargas",
+          "authority-fnf": "Juan Vargas"
+        }
+      ],
+      "memberName": "Vargas, Juan",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000486",
+      "name": [
+        {
+          "authority-lnf": "Torres, Ritchie",
+          "parsed": "Mr. Torres of New York",
+          "authority-fnf": "Ritchie Torres"
+        }
+      ],
+      "memberName": "Torres, Ritchie",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001193",
+      "name": [
+        {
+          "authority-lnf": "Swalwell, Eric",
+          "parsed": "Mr. Swalwell",
+          "authority-fnf": "Eric Swalwell"
+        }
+      ],
+      "memberName": "Swalwell, Eric",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001225",
+      "name": [
+        {
+          "authority-lnf": "Mullin, Kevin",
+          "parsed": "Mr. Mullin",
+          "authority-fnf": "Kevin Mullin"
+        }
+      ],
+      "memberName": "Mullin, Kevin",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000273",
+      "name": [
+        {
+          "authority-lnf": "Leger Fernandez, Teresa",
+          "parsed": "Ms. Leger Fernandez",
+          "authority-fnf": "Teresa Leger Fernandez"
+        }
+      ],
+      "memberName": "Leger Fernandez, Teresa",
+      "state": "NM",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001117",
+      "name": [
+        {
+          "authority-lnf": "Casten, Sean",
+          "parsed": "Mr. Casten",
+          "authority-fnf": "Sean Casten"
+        }
+      ],
+      "memberName": "Casten, Sean",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001069",
+      "name": [
+        {
+          "authority-lnf": "Courtney, Joe",
+          "parsed": "Mr. Courtney",
+          "authority-fnf": "Joe Courtney"
+        }
+      ],
+      "memberName": "Courtney, Joe",
+      "state": "CT",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000462",
+      "name": [
+        {
+          "authority-lnf": "Frankel, Lois",
+          "parsed": "Ms. Lois Frankel of Florida",
+          "authority-fnf": "Lois Frankel"
+        }
+      ],
+      "memberName": "Frankel, Lois",
+      "state": "FL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000620",
+      "name": [
+        {
+          "authority-lnf": "Rivas, Luz",
+          "authority-other": "Ms. Luz M. Rivas",
+          "parsed": "Ms. Rivas",
+          "authority-fnf": "Luz Rivas"
+        }
+      ],
+      "memberName": "Rivas, Luz",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000488",
+      "name": [
+        {
+          "authority-lnf": "Thanedar, Shri",
+          "parsed": "Mr. Thanedar",
+          "authority-fnf": "Shri Thanedar"
+        }
+      ],
+      "memberName": "Thanedar, Shri",
+      "state": "MI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000601",
+      "name": [
+        {
+          "authority-lnf": "Landsman, Greg",
+          "parsed": "Mr. Landsman",
+          "authority-fnf": "Greg Landsman"
+        }
+      ],
+      "memberName": "Landsman, Greg",
+      "state": "OH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000474",
+      "name": [
+        {
+          "authority-lnf": "Torres, Norma J.",
+          "authority-other": "Mrs. Norma Torres",
+          "parsed": "Mrs. Torres of California",
+          "authority-fnf": "Norma J. Torres"
+        }
+      ],
+      "memberName": "Torres, Norma J.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001055",
+      "name": [
+        {
+          "authority-lnf": "Case, Ed",
+          "parsed": "Mr. Case",
+          "authority-fnf": "Ed Case"
+        }
+      ],
+      "memberName": "Case, Ed",
+      "state": "HI",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001230",
+      "name": [
+        {
+          "authority-lnf": "Subramanyam, Suhas",
+          "parsed": "Mr. Subramanyam",
+          "authority-fnf": "Suhas Subramanyam"
+        }
+      ],
+      "memberName": "Subramanyam, Suhas",
+      "state": "VA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001231",
+      "name": [
+        {
+          "authority-lnf": "Simon, Lateefah",
+          "parsed": "Ms. Simon",
+          "authority-fnf": "Lateefah Simon"
+        }
+      ],
+      "memberName": "Simon, Lateefah",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001205",
+      "name": [
+        {
+          "authority-lnf": "Scanlon, Mary Gay",
+          "authority-other": "Ms. Mary Scanlon",
+          "parsed": "Ms. Scanlon",
+          "authority-fnf": "Mary Gay Scanlon"
+        }
+      ],
+      "memberName": "Scanlon, Mary Gay",
+      "state": "PA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001123",
+      "name": [
+        {
+          "authority-lnf": "Cisneros, Gilbert Ray, Jr.",
+          "authority-other": "Mr. Gilbert Ray Cisneros",
+          "parsed": "Mr. Cisneros",
+          "authority-fnf": "Gilbert Ray Cisneros, Jr."
+        }
+      ],
+      "memberName": "Cisneros, Gilbert Ray, Jr.",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001137",
+      "name": [
+        {
+          "authority-lnf": "Meeks, Gregory W.",
+          "authority-other": "Mr. Gregory Meeks",
+          "parsed": "Mr. Meeks",
+          "authority-fnf": "Gregory W. Meeks"
+        }
+      ],
+      "memberName": "Meeks, Gregory W.",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000604",
+      "name": [
+        {
+          "authority-lnf": "Goodlander, Maggie",
+          "parsed": "Ms. Goodlander",
+          "authority-fnf": "Maggie Goodlander"
+        }
+      ],
+      "memberName": "Goodlander, Maggie",
+      "state": "NH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000187",
+      "name": [
+        {
+          "authority-lnf": "Waters, Maxine",
+          "parsed": "Ms. Waters",
+          "authority-fnf": "Maxine Waters"
+        }
+      ],
+      "memberName": "Waters, Maxine",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000622",
+      "name": [
+        {
+          "authority-lnf": "Riley, Josh",
+          "parsed": "Mr. Riley of New York",
+          "authority-fnf": "Josh Riley"
+        }
+      ],
+      "memberName": "Riley, Josh",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000617",
+      "name": [
+        {
+          "authority-lnf": "DelBene, Suzan K.",
+          "authority-other": "Ms. Suzan Delbene",
+          "parsed": "Ms. DelBene",
+          "authority-fnf": "Suzan K. DelBene"
+        }
+      ],
+      "memberName": "DelBene, Suzan K.",
+      "state": "WA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "E000299",
+      "name": [
+        {
+          "authority-lnf": "Escobar, Veronica",
+          "parsed": "Ms. Escobar",
+          "authority-fnf": "Veronica Escobar"
+        }
+      ],
+      "memberName": "Escobar, Veronica",
+      "state": "TX",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000034",
+      "name": [
+        {
+          "authority-lnf": "Pallone, Frank",
+          "authority-other": "Mr. Frank Pallone Jr.",
+          "parsed": "Mr. Pallone",
+          "authority-fnf": "Frank Pallone, Jr."
+        }
+      ],
+      "memberName": "Pallone, Frank",
+      "state": "NJ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000592",
+      "name": [
+        {
+          "authority-lnf": "Golden, Jared F.",
+          "authority-other": "Mr. Jared Golden",
+          "parsed": "Mr. Golden of Maine",
+          "authority-fnf": "Jared F. Golden"
+        }
+      ],
+      "memberName": "Golden, Jared F.",
+      "state": "ME",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001225",
+      "name": [
+        {
+          "authority-lnf": "Sorensen, Eric",
+          "parsed": "Mr. Sorensen",
+          "authority-fnf": "Eric Sorensen"
+        }
+      ],
+      "memberName": "Sorensen, Eric",
+      "state": "IL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000606",
+      "name": [
+        {
+          "authority-lnf": "Latimer, George",
+          "parsed": "Mr. Latimer",
+          "authority-fnf": "George Latimer"
+        }
+      ],
+      "memberName": "Latimer, George",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "R000606",
+      "name": [
+        {
+          "authority-lnf": "Raskin, Jamie",
+          "parsed": "Mr. Raskin",
+          "authority-fnf": "Jamie Raskin"
+        }
+      ],
+      "memberName": "Raskin, Jamie",
+      "state": "MD",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001185",
+      "name": [
+        {
+          "authority-lnf": "Sewell, Terri A.",
+          "authority-other": "Ms. Terri Sewell",
+          "parsed": "Ms. Sewell",
+          "authority-fnf": "Terri A. Sewell"
+        }
+      ],
+      "memberName": "Sewell, Terri A.",
+      "state": "AL",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "D000635",
+      "name": [
+        {
+          "authority-lnf": "Dexter, Maxine",
+          "parsed": "Ms. Dexter",
+          "authority-fnf": "Maxine Dexter"
+        }
+      ],
+      "memberName": "Dexter, Maxine",
+      "state": "OR",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000583",
+      "name": [
+        {
+          "authority-lnf": "Gottheimer, Josh",
+          "parsed": "Mr. Gottheimer",
+          "authority-fnf": "Josh Gottheimer"
+        }
+      ],
+      "memberName": "Gottheimer, Josh",
+      "state": "NJ",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/8:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hjres",
+  "packageId": "BILLS-119hjres80ih",
+  "committees": [
+    {
+      "authorityId": "hsju00",
+      "chamber": "H",
+      "committeeName": "Committee on the Judiciary",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hjres",
+  "lastModified": "2025-03-25T07:18:59Z",
+  "category": "Bills and Statutes",
+  "billNumber": "80",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hj80_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House joint resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325570",
+    "stock-number": "021-610-00252-9"
+  }
+}

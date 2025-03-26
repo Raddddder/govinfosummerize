@@ -1,0 +1,117 @@
+{
+  "originChamber": "SENATE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "5",
+          "sections": [
+            "3132"
+          ]
+        },
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "653",
+            "681"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119s1093is",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "Coordinated Support for Rural Small Businesses Act"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To amend the Small Business Act to enhance the Office of Rural Affairs, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119s1093is/pdf"
+  },
+  "pages": "9",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119s1093/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119s1093is",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "S",
+      "congress": "119",
+      "bioGuideId": "S001181",
+      "name": [
+        {
+          "authority-lnf": "Shaheen, Jeanne",
+          "parsed": "Mrs. Shaheen",
+          "authority-fnf": "Jeanne Shaheen"
+        }
+      ],
+      "memberName": "Shaheen, Jeanne",
+      "state": "NH",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "S",
+      "congress": "119",
+      "bioGuideId": "K000393",
+      "name": [
+        {
+          "authority-lnf": "Kennedy, John",
+          "parsed": "Mr. Kennedy",
+          "authority-fnf": "John Kennedy"
+        }
+      ],
+      "memberName": "Kennedy, John",
+      "state": "LA",
+      "party": "R"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/1:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "SENATE",
+  "billVersion": "is",
+  "billType": "s",
+  "packageId": "BILLS-119s1093is",
+  "committees": [
+    {
+      "authorityId": "sssb00",
+      "chamber": "S",
+      "committeeName": "Committee on Small Business and Entrepreneurship",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "Senate",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "s",
+  "lastModified": "2025-03-25T13:23:29Z",
+  "category": "Bills and Statutes",
+  "billNumber": "1093",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:s1093_is.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "Senate bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325576",
+    "stock-number": "021-610-00252-9"
+  }
+}

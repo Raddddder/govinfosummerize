@@ -1,0 +1,183 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "632",
+            "648",
+            "656"
+          ]
+        },
+        {
+          "label": "U.S.C",
+          "title": "20",
+          "sections": [
+            "2302"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr1642rh",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "Connecting Small Businesses with Career and Technical Education Graduates Act of 2025"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To amend the Small Business Act to include requirements relating to graduates of career and technical education programs for small business development centers and women’s business centers, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr1642rh/pdf"
+  },
+  "pages": "8",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr1642/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr1642rh",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000816",
+      "name": [
+        {
+          "authority-lnf": "Williams, Roger",
+          "parsed": "Mr. Williams of Texas",
+          "authority-fnf": "Roger Williams"
+        }
+      ],
+      "memberName": "Williams, Roger",
+      "state": "TX",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "O000176",
+      "name": [
+        {
+          "authority-lnf": "Olszewski, Johnny",
+          "parsed": "Mr. Olszewski",
+          "authority-fnf": "Johnny Olszewski"
+        }
+      ],
+      "memberName": "Olszewski, Johnny",
+      "state": "MD",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001327",
+      "name": [
+        {
+          "authority-lnf": "Bresnahan, Robert",
+          "authority-other": "Mr. Robert P. Bresnahan Jr.",
+          "parsed": "Mr. Bresnahan",
+          "authority-fnf": "Robert Bresnahan"
+        }
+      ],
+      "memberName": "Bresnahan, Robert",
+      "state": "PA",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "T000491",
+      "name": [
+        {
+          "authority-lnf": "Tran, Derek",
+          "parsed": "Mr. Tran",
+          "authority-fnf": "Derek Tran"
+        }
+      ],
+      "memberName": "Tran, Derek",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "W000829",
+      "name": [
+        {
+          "authority-lnf": "Wied, Tony",
+          "parsed": "Mr. Wied",
+          "authority-fnf": "Tony Wied"
+        }
+      ],
+      "memberName": "Wied, Tony",
+      "state": "WI",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000604",
+      "name": [
+        {
+          "authority-lnf": "Goodlander, Maggie",
+          "parsed": "Ms. Goodlander",
+          "authority-fnf": "Maggie Goodlander"
+        }
+      ],
+      "memberName": "Goodlander, Maggie",
+      "state": "NH",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "rh",
+  "billType": "hr",
+  "packageId": "BILLS-119hr1642rh",
+  "committees": [
+    {
+      "authorityId": "hssm00",
+      "chamber": "H",
+      "committeeName": "Committee on Small Business",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T07:19:04Z",
+  "category": "Bills and Statutes",
+  "billNumber": "1642",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h1642_rh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}

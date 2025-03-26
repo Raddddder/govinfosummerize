@@ -1,0 +1,72 @@
+{
+  "originChamber": "HOUSE",
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hjres81ih",
+  "isPrivate": "false",
+  "title": "Authorizing the use of military force against certain Mexican cartels.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hjres81ih/pdf"
+  },
+  "pages": "4",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hjres81/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hjres81ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S001214",
+      "name": [
+        {
+          "authority-lnf": "Steube, W. Gregory",
+          "parsed": "Mr. Steube",
+          "authority-fnf": "W. Gregory Steube"
+        }
+      ],
+      "memberName": "Steube, W. Gregory",
+      "state": "FL",
+      "party": "R"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/8:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hjres",
+  "packageId": "BILLS-119hjres81ih",
+  "committees": [
+    {
+      "authorityId": "hsfa00",
+      "chamber": "H",
+      "committeeName": "Committee on Foreign Affairs",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hjres",
+  "lastModified": "2025-03-25T07:19:30Z",
+  "category": "Bills and Statutes",
+  "billNumber": "81",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hj81_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House joint resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325570",
+    "stock-number": "021-610-00252-9"
+  }
+}

@@ -175,3 +175,5 @@ python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deep
 ```bash
 python govinfo_summarize_recent.py --govinfo_api_key YOUR_GOVINFO_API_KEY --deepseek_api_key YOUR_DEEPSEEK_API_KEY --report_only
 ``` 
+example：
+python document_summarizer.py --api_key sk-c448db32df6944eab2c8d5d9108ec158 --input_dir recent_documents_20250325 --output_file document_summaries_20250325.json --report

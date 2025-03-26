@@ -1,0 +1,234 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "28",
+          "sections": [
+            "455"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hres241ih",
+  "isPrivate": "false",
+  "title": "Impeaching John James McConnell Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hres241ih/pdf"
+  },
+  "pages": "8",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hres241/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hres241ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001116",
+      "name": [
+        {
+          "authority-lnf": "Clyde, Andrew S.",
+          "authority-other": "Mr. Andrew Clyde",
+          "parsed": "Mr. Clyde",
+          "authority-fnf": "Andrew S. Clyde"
+        }
+      ],
+      "memberName": "Clyde, Andrew S.",
+      "state": "GA",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001132",
+      "name": [
+        {
+          "authority-lnf": "Crane, Elijah",
+          "parsed": "Mr. Crane",
+          "authority-fnf": "Elijah Crane"
+        }
+      ],
+      "memberName": "Crane, Elijah",
+      "state": "AZ",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000603",
+      "name": [
+        {
+          "authority-lnf": "Gill, Brandon",
+          "parsed": "Mr. Gill of Texas",
+          "authority-fnf": "Brandon Gill"
+        }
+      ],
+      "memberName": "Gill, Brandon",
+      "state": "TX",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000565",
+      "name": [
+        {
+          "authority-lnf": "Gosar, Paul A.",
+          "authority-other": "Mr. Paul Gosar",
+          "parsed": "Mr. Gosar",
+          "authority-fnf": "Paul A. Gosar"
+        }
+      ],
+      "memberName": "Gosar, Paul A.",
+      "state": "AZ",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001317",
+      "name": [
+        {
+          "authority-lnf": "Brecheen, Josh",
+          "parsed": "Mr. Brecheen",
+          "authority-fnf": "Josh Brecheen"
+        }
+      ],
+      "memberName": "Brecheen, Josh",
+      "state": "OK",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "H001052",
+      "name": [
+        {
+          "authority-lnf": "Harris, Andy",
+          "parsed": "Mr. Harris of Maryland",
+          "authority-fnf": "Andy Harris"
+        }
+      ],
+      "memberName": "Harris, Andy",
+      "state": "MD",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000605",
+      "name": [
+        {
+          "authority-lnf": "Perry, Scott",
+          "parsed": "Mr. Perry",
+          "authority-fnf": "Scott Perry"
+        }
+      ],
+      "memberName": "Perry, Scott",
+      "state": "PA",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001216",
+      "name": [
+        {
+          "authority-lnf": "Mills, Cory",
+          "parsed": "Mr. Mills",
+          "authority-fnf": "Cory Mills"
+        }
+      ],
+      "memberName": "Mills, Cory",
+      "state": "FL",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000596",
+      "name": [
+        {
+          "authority-lnf": "Greene, Marjorie Taylor",
+          "authority-other": "Ms. Marjorie Greene",
+          "parsed": "Ms. Greene of Georgia",
+          "authority-fnf": "Marjorie Taylor Greene"
+        }
+      ],
+      "memberName": "Greene, Marjorie Taylor",
+      "state": "GA",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "B001316",
+      "name": [
+        {
+          "authority-lnf": "Burlison, Eric",
+          "parsed": "Mr. Burlison",
+          "authority-fnf": "Eric Burlison"
+        }
+      ],
+      "memberName": "Burlison, Eric",
+      "state": "MO",
+      "party": "R"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/7:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hres",
+  "packageId": "BILLS-119hres241ih",
+  "committees": [
+    {
+      "authorityId": "hsju00",
+      "chamber": "H",
+      "committeeName": "Committee on the Judiciary",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hres",
+  "lastModified": "2025-03-25T07:19:04Z",
+  "category": "Bills and Statutes",
+  "billNumber": "241",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hr241_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325574",
+    "stock-number": "021-610-00252-9"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "originChamber": "HOUSE",
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr2285ih",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "DHS Basic Training Accreditation Improvement Act of 2025"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To require reporting regarding accreditation of basic training programs of the Department of Homeland Security, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr2285ih/pdf"
+  },
+  "pages": "5",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr2285/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr2285ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "P000621",
+      "name": [
+        {
+          "authority-lnf": "Pou, Nellie",
+          "parsed": "Ms. Pou",
+          "authority-fnf": "Nellie Pou"
+        }
+      ],
+      "memberName": "Pou, Nellie",
+      "state": "NJ",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hr",
+  "packageId": "BILLS-119hr2285ih",
+  "committees": [
+    {
+      "authorityId": "hshm00",
+      "chamber": "H",
+      "committeeName": "Committee on Homeland Security",
+      "type": "S"
+    },
+    {
+      "authorityId": "hsju00",
+      "chamber": "H",
+      "committeeName": "Committee on the Judiciary",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T05:45:01Z",
+  "category": "Bills and Statutes",
+  "billNumber": "2285",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h2285_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}

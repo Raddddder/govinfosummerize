@@ -1,0 +1,91 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "8853",
+            "8854"
+          ]
+        },
+        {
+          "label": "U.S.C",
+          "title": "42",
+          "sections": [
+            "16313",
+            "16315",
+            "18641",
+            "18644",
+            "18645",
+            "19231"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    },
+    {
+      "contents": [
+        {
+          "number": "167",
+          "congress": "117",
+          "label": "Public Law"
+        }
+      ],
+      "collectionCode": "PLAW",
+      "collectionName": "Public and Private Laws"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr1350eh",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "DOE and NSF Interagency Research Act"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "An Act To provide for Department of Energy and National Science Foundation research and development coordination, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr1350eh/pdf"
+  },
+  "pages": "8",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr1350/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr1350eh",
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "eh",
+  "billType": "hr",
+  "packageId": "BILLS-119hr1350eh",
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T05:04:44Z",
+  "category": "Bills and Statutes",
+  "billNumber": "1350",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h1350_eh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}

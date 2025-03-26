@@ -1,0 +1,76 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "5"
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hres242rh",
+  "isPrivate": "false",
+  "title": "Providing for consideration of the joint resolution (H.J. Res. 24) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers; providing for consideration of the joint resolution (H.J. Res. 75) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers; and providing for consideration of the bill (H.R. 1048) to amend the Higher Education Act of 1965 to strengthen disclosure requirements relating to foreign gifts and contracts, to prohibit contracts between institutions of higher education and certain foreign entities and countries of concern, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hres242rh/pdf"
+  },
+  "pages": "6",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hres242/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hres242rh",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "F000450",
+      "name": [
+        {
+          "authority-lnf": "Foxx, Virginia",
+          "parsed": "Ms. Foxx",
+          "authority-fnf": "Virginia Foxx"
+        }
+      ],
+      "memberName": "Foxx, Virginia",
+      "state": "NC",
+      "party": "R"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/7:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "rh",
+  "billType": "hres",
+  "packageId": "BILLS-119hres242rh",
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hres",
+  "lastModified": "2025-03-25T05:45:01Z",
+  "category": "Bills and Statutes",
+  "billNumber": "242",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hr242_rh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325574",
+    "stock-number": "021-610-00252-9"
+  }
+}

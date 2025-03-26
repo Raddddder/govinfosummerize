@@ -1,0 +1,184 @@
+{
+  "originChamber": "HOUSE",
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hres243ih",
+  "isPrivate": "false",
+  "title": "Expressing support for designating Iranian American Heritage Month.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hres243ih/pdf"
+  },
+  "pages": "4",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hres243/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hres243ih",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "A000381",
+      "name": [
+        {
+          "authority-lnf": "Ansari, Yassamin",
+          "parsed": "Ms. Ansari",
+          "authority-fnf": "Yassamin Ansari"
+        }
+      ],
+      "memberName": "Ansari, Yassamin",
+      "state": "AZ",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "S000344",
+      "name": [
+        {
+          "authority-lnf": "Sherman, Brad",
+          "parsed": "Mr. Sherman",
+          "authority-fnf": "Brad Sherman"
+        }
+      ],
+      "memberName": "Sherman, Brad",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001241",
+      "name": [
+        {
+          "authority-lnf": "Min, Dave",
+          "parsed": "Mr. Min",
+          "authority-fnf": "Dave Min"
+        }
+      ],
+      "memberName": "Min, Dave",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "K000400",
+      "name": [
+        {
+          "authority-lnf": "Kamlager-Dove, Sydney",
+          "parsed": "Ms. Kamlager-Dove",
+          "authority-fnf": "Sydney Kamlager-Dove"
+        }
+      ],
+      "memberName": "Kamlager-Dove, Sydney",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000397",
+      "name": [
+        {
+          "authority-lnf": "Lofgren, Zoe",
+          "parsed": "Ms. Lofgren",
+          "authority-fnf": "Zoe Lofgren"
+        }
+      ],
+      "memberName": "Lofgren, Zoe",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M001208",
+      "name": [
+        {
+          "authority-lnf": "McBath, Lucy",
+          "parsed": "Mrs. McBath",
+          "authority-fnf": "Lucy McBath"
+        }
+      ],
+      "memberName": "McBath, Lucy",
+      "state": "GA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001059",
+      "name": [
+        {
+          "authority-lnf": "Costa, Jim",
+          "parsed": "Mr. Costa",
+          "authority-fnf": "Jim Costa"
+        }
+      ],
+      "memberName": "Costa, Jim",
+      "state": "CA",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "C001072",
+      "name": [
+        {
+          "authority-lnf": "Carson, Andre",
+          "parsed": "Mr. Carson",
+          "authority-fnf": "Andre Carson"
+        }
+      ],
+      "memberName": "Carson, Andre",
+      "state": "IN",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/7:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "ih",
+  "billType": "hres",
+  "packageId": "BILLS-119hres243ih",
+  "committees": [
+    {
+      "authorityId": "hsgo00",
+      "chamber": "H",
+      "committeeName": "Committee on Oversight and Government Reform",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hres",
+  "lastModified": "2025-03-25T07:19:30Z",
+  "category": "Bills and Statutes",
+  "billNumber": "243",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:hr243_ih.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House resolutions",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325574",
+    "stock-number": "021-610-00252-9"
+  }
+}

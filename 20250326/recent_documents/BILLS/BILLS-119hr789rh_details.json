@@ -1,0 +1,149 @@
+{
+  "originChamber": "HOUSE",
+  "references": [
+    {
+      "contents": [
+        {
+          "label": "U.S.C",
+          "title": "15",
+          "sections": [
+            "632",
+            "644"
+          ]
+        },
+        {
+          "label": "U.S.C",
+          "title": "41",
+          "sections": [
+            "1708"
+          ]
+        }
+      ],
+      "collectionCode": "USCODE",
+      "collectionName": "U.S. Code"
+    }
+  ],
+  "congress": "119",
+  "session": "1",
+  "detailsLink": "https://www.govinfo.gov/app/details/BILLS-119hr789rh",
+  "shortTitle": [
+    {
+      "type": "measure",
+      "title": "Transparency and Predictability in Small Business Opportunities Act"
+    }
+  ],
+  "isPrivate": "false",
+  "title": "To require the Administrator of the Small Business Administration to issue rules for cancelled covered solicitations, to amend the Small Business Act to provide assistance to small business concerns relating to certain cancelled solicitations, and for other purposes.",
+  "branch": "legislative",
+  "isAppropriation": "false",
+  "collectionName": "Congressional Bills",
+  "download": {
+    "premisLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/premis",
+    "xmlLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/xml",
+    "txtLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/htm",
+    "zipLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/zip",
+    "modsLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/mods",
+    "pdfLink": "https://api.govinfo.gov/packages/BILLS-119hr789rh/pdf"
+  },
+  "pages": "6",
+  "related": {
+    "billStatusLink": "https://api.govinfo.gov/packages/BILLSTATUS-119hr789/xml"
+  },
+  "relatedLink": "https://api.govinfo.gov/related/BILLS-119hr789rh",
+  "members": [
+    {
+      "role": "SPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "L000606",
+      "name": [
+        {
+          "authority-lnf": "Latimer, George",
+          "parsed": "Mr. Latimer",
+          "authority-fnf": "George Latimer"
+        }
+      ],
+      "memberName": "Latimer, George",
+      "state": "NY",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "A000379",
+      "name": [
+        {
+          "authority-lnf": "Alford, Mark",
+          "parsed": "Mr. Alford",
+          "authority-fnf": "Mark Alford"
+        }
+      ],
+      "memberName": "Alford, Mark",
+      "state": "MO",
+      "party": "R"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "M000687",
+      "name": [
+        {
+          "authority-lnf": "Mfume, Kweisi",
+          "parsed": "Mr. Mfume",
+          "authority-fnf": "Kweisi Mfume"
+        }
+      ],
+      "memberName": "Mfume, Kweisi",
+      "state": "MD",
+      "party": "D"
+    },
+    {
+      "role": "COSPONSOR",
+      "chamber": "H",
+      "congress": "119",
+      "bioGuideId": "G000604",
+      "name": [
+        {
+          "authority-lnf": "Goodlander, Maggie",
+          "parsed": "Ms. Goodlander",
+          "authority-fnf": "Maggie Goodlander"
+        }
+      ],
+      "memberName": "Goodlander, Maggie",
+      "state": "NH",
+      "party": "D"
+    }
+  ],
+  "suDocClassNumber": "Y 1.6:, Y 1.4/6:",
+  "dateIssued": "2025-03-24",
+  "currentChamber": "HOUSE",
+  "billVersion": "rh",
+  "billType": "hr",
+  "packageId": "BILLS-119hr789rh",
+  "committees": [
+    {
+      "authorityId": "hssm00",
+      "chamber": "H",
+      "committeeName": "Committee on Small Business",
+      "type": "S"
+    }
+  ],
+  "collectionCode": "BILLS",
+  "governmentAuthor2": "House of Representatives",
+  "governmentAuthor1": "Congress",
+  "publisher": "U.S. Government Publishing Office",
+  "docClass": "hr",
+  "lastModified": "2025-03-25T07:19:09Z",
+  "category": "Bills and Statutes",
+  "billNumber": "789",
+  "otherIdentifier": {
+    "migrated-doc-id": "f:h789_rh.txt",
+    "parent-ils-system-id": "000501532",
+    "child-ils-title": "House bills",
+    "parent-ils-title": "Congressional bills",
+    "child-ils-system-id": "000325573",
+    "stock-number": "021-610-00252-9"
+  }
+}
