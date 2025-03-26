@@ -24,7 +24,7 @@ pip install requests beautifulsoup4
 直接运行提供的shell脚本即可一键获取最近两天的FR和BILLS文档，并生成摘要：
 
 ```bash
-./run_recent_summarize.sh
+./run_full_pipeline.sh
 ```
 
 该脚本会自动：
