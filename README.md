@@ -30,7 +30,7 @@ BILLS反映的是立法部门（国会）的立法活动
 
 3.【基于prompt】内容包括：
 
-（待验证）居于单一文本的：
+（待验证）基于单一文本的：
 ```
 As an analyst, evaluate the given text source regarding its relationship to US data restrictions based on three dimensions. Please analyze the content and provide a structured assessment in the following format:
 
