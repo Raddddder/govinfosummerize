@@ -1,7 +1,18 @@
 # GovInfo API 文档获取工具
 
 这个工具可以帮助您获取GovInfo API中最近两天的文档信息，并保存为JSON格式。此外，还能使用DeepSeek AI为这些文档生成摘要。
-
+### FR (Federal Register)：联邦公报
+这是美国联邦政府的官方日报
+相关链接：https://www.federalregister.gov/
+用于发布行政命令、政府机构规章制度和其他联邦机构的官方文件
+### BILLS：国会法案
+这是美国国会提出的法案
+相关链接
+包含由国会议员提出的各种立法提案
+这两个集合代表了美国联邦政府两个不同层面的法律文件：
+FR反映的是行政部门的规章制度和行政命令
+BILLS反映的是立法部门（国会）的立法活动
+这些都是GovInfo API中最常用的文档集合之一，对于跟踪美国联邦政府的政策变化和立法动态非常重要。
 ## 功能
 
 - 获取GovInfo API中的所有集合信息
@@ -12,7 +23,127 @@
 - 支持断点续传和进度保存
 - 生成可读性强的摘要报告
 - 所有输出文件名自动添加日期标记
+# 「TODO」
+1.修改获取的时间窗口（2天改为1天）
+2.针对生成的5000页的法案内容进行【基于prompt】的筛选
+3.【基于prompt】内容包括：
+（待验证）居于单一文本的：
+```
+As an analyst, evaluate the given text source regarding its relationship to US data restrictions based on three dimensions. Please analyze the content and provide a structured assessment in the following format:
 
+1. Urgency Level (P0/P1/P2):
+- Analyze the text's immediacy and criticality regarding data restrictions
+- P0: Immediate/Critical
+- P1: Medium Priority
+- P2: Low Priority/Long-term
+
+2. Impact Scope:
+- Assess whether the impact is:
+  * US Internal
+  * Global Range
+  * China Specific
+
+3. Domain Area:
+- Identify which sector is primarily affected:
+  * Healthcare & Medical
+  * Economy & Industry
+  * Society & Human Factors
+
+Additionally, scan for key terminology related to data restrictions:
+- Data/Data Security
+- Data Limit
+- AI Safety
+- Digital Security
+- Data Protection
+- Intellectual Property
+
+Please provide the analysis results in the following JSON format:
+
+{
+    "urgency_level": "P0/P1/P2",
+    "impact_scope": "US_Internal/Global/China_Specific",
+    "domain_area": "Healthcare/Economy/Society",
+    "key_terms_detected": [
+        {
+            "term": "term_name",
+            "frequency": number,
+            "context": "brief_context"
+        }
+    ],
+    "summary": "brief_analysis_of_data_restriction_implications"
+}
+
+Note: Only include key terms if they are actually present in the text.
+ ```
+(待验证)基于多信源在内需要筛选的：
+```
+As an analyst, evaluate a collection of text sources and identify those specifically related to US data restrictions. For each relevant source within the input text:
+
+1. First, determine if the source contains content related to data restrictions by checking:
+- Data control or limitation policies
+- Data security measures
+- Cross-border data flow restrictions
+- Technology access controls
+- Digital sovereignty issues
+
+For each RELEVANT source only, provide a detailed analysis based on three dimensions:
+
+1. Urgency Level (P0/P1/P2):
+- P0: Immediate/Critical impact on data access/control
+- P1: Medium-term implications for data policies
+- P2: Long-term/potential future impacts
+
+2. Impact Scope:
+- US Internal
+- Global Range
+- China Specific
+
+3. Domain Area:
+- Healthcare & Medical
+- Economy & Industry
+- Society & Human Factors
+
+Key terminology scan for each source:
+- Data/Data Security
+- Data Limit
+- AI Safety
+- Digital Security
+- Data Protection
+- Intellectual Property
+
+Please provide the results in the following JSON format:
+
+{
+    "relevant_sources": [
+        {
+            "source_id": "sequential_number",
+            "source_excerpt": "brief_quote_or_identifier",
+            "analysis": {
+                "urgency_level": "P0/P1/P2",
+                "impact_scope": "US_Internal/Global/China_Specific",
+                "domain_area": "Healthcare/Economy/Society",
+                "key_terms_detected": [
+                    {
+                        "term": "term_name",
+                        "frequency": number,
+                        "context": "brief_context"
+                    }
+                ]
+            },
+            "summary": "brief_analysis_of_data_restriction_implications"
+        }
+    ],
+    "total_relevant_sources": number,
+    "analysis_timestamp": "timestamp"
+}
+
+Important notes:
+1. Only include sources that specifically relate to data restrictions or controls
+2. Exclude sources that don't contain relevant content
+3. Maintain clear separation between different sources in the analysis
+4. Provide context for why each included source is relevant
+
+```
 ## 安装依赖
 
 ```bash
